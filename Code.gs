@@ -7,7 +7,7 @@
  *    前端以 no-cors POST + JSONP 查詢收件 ID 驗證，避開讀取跨網域 POST 回應。
  */
 const SPREADSHEET_ID = ''; // 綁定試算表時保留空字串
-const HEADERS = ['提交時間戳記', '學生姓名/座號', '測驗單元', '得分', '總題數', '正確率', '錯題清單', '作答紀錄(JSON)', '提交ID'];
+const HEADERS = ['提交時間戳記', '學生姓名', '測驗單元', '得分', '總題數', '正確率', '錯題清單', '作答紀錄(JSON)', '提交ID', '填寫日期'];
 
 function spreadsheet_() {
   const ss = SPREADSHEET_ID ? SpreadsheetApp.openById(SPREADSHEET_ID) : SpreadsheetApp.getActiveSpreadsheet();
@@ -29,11 +29,12 @@ function doPost(e) {
     const data = JSON.parse(raw);
     const id = String(data.submissionId || '');
     const student = String(data.student || '').trim();
+    const workDate = String(data.workDate || '').trim();
     const unit = String(data.unit || '').trim();
     const score = Number(data.score);
     const total = Number(data.total);
     const rate = Number(data.accuracy);
-    if (!/^[a-zA-Z0-9-]{15,80}$/.test(id) || !student || student.length > 80 || !unit || unit.length > 120 ||
+    if (!/^[a-zA-Z0-9-]{15,80}$/.test(id) || !student || student.length > 80 || !/^\d{4}-\d{2}-\d{2}$/.test(workDate) || !unit || unit.length > 120 ||
         !Number.isInteger(score) || !Number.isInteger(total) || total < 1 || total > 200 ||
         score < 0 || score > total || !Number.isFinite(rate) || Math.abs(rate - score / total * 100) > .11) {
       return json_({ ok: false, error: '資料格式不正確' });
@@ -44,6 +45,8 @@ function doPost(e) {
       sheet.appendRow(HEADERS);
       sheet.setFrozenRows(1);
     }
+    // 相容之前的 9 欄成績表：填寫日期新增在 J 欄，不改變提交 ID 的 I 欄。
+    if (!sheet.getRange(1, 10).getValue()) sheet.getRange(1, 10).setValue('填寫日期');
     // 避免網路重送產生重複列
     if (sheet.getLastRow() > 1) {
       const match = sheet.getRange(2, 9, sheet.getLastRow() - 1, 1)
@@ -56,7 +59,7 @@ function doPost(e) {
     const stamp = data.timestamp && !isNaN(Date.parse(data.timestamp)) ? new Date(data.timestamp) : new Date();
     sheet.appendRow([
       stamp, safeCell_(student), safeCell_(unit), score, total, rate / 100,
-      safeCell_(wrongSummary), safeCell_(JSON.stringify(answers)), id
+      safeCell_(wrongSummary), safeCell_(JSON.stringify(answers)), id, safeCell_(workDate)
     ]);
     const row = sheet.getLastRow();
     sheet.getRange(row, 6).setNumberFormat('0.0%');
