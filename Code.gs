@@ -98,3 +98,53 @@ function doGet(e) {
   }
   return ContentService.createTextOutput(result).setMimeType(ContentService.MimeType.JSON);
 }
+
+/**
+ * 老師端側邊欄：只從有試算表權限的編輯介面開啟。
+ * 請勿把所有成績資料提供給公開 doGet/doPost API。
+ */
+function onOpen() {
+  SpreadsheetApp.getUi().createMenu('📚 English Orbit')
+    .addItem('開啟老師成績管理', 'showTeacherDashboard')
+    .addToUi();
+}
+function showTeacherDashboard() {
+  const html = HtmlService.createHtmlOutputFromFile('TeacherDashboard')
+    .setTitle('English Orbit｜老師成績管理');
+  SpreadsheetApp.getUi().showSidebar(html);
+}
+function getTeacherResults() {
+  const sheet = spreadsheet_();
+  const last = sheet.getLastRow();
+  if (last < 2) return [];
+  // 保留前 10 欄既有欄序；送出必要資訊，不公開提交 ID。
+  const values = sheet.getRange(2, 1, last - 1, 10).getValues();
+  const timezone = Session.getScriptTimeZone() || 'Asia/Taipei';
+  return values.map((r, index) => {
+    const date = r[0] instanceof Date ? Utilities.formatDate(r[0], timezone, 'yyyy-MM-dd HH:mm:ss') : String(r[0] || '');
+    const accuracy = typeof r[5] === 'number' ? Math.round(r[5] * 1000) / 10 : Number(String(r[5]).replace('%','')) || 0;
+    const raw = String(r[7] || '[]');
+    let wrong = [];
+    try {
+      const arr = JSON.parse(raw);
+      if (Array.isArray(arr)) wrong = arr.filter(x => x && !x.isCorrect).map(x => ({
+        number: Number(x.number) || 0,
+        question: String(x.question || '').slice(0, 350),
+        given: String(x.given || '').slice(0, 350),
+        correct: String(x.correct || '').slice(0, 350)
+      })).slice(0, 200);
+    } catch (err) { /* 老紀錄可只呈現原始錯題摘要 */ }
+    return {
+      row: index + 2,
+      submittedAt: date,
+      student: String(r[1] || ''),
+      unit: String(r[2] || ''),
+      score: Number(r[3]) || 0,
+      total: Number(r[4]) || 0,
+      accuracy,
+      workDate: r[9] instanceof Date ? Utilities.formatDate(r[9], timezone, 'yyyy-MM-dd') : String(r[9] || ''),
+      wrong,
+      wrongSummary: wrong.length ? '' : String(r[6] || '').slice(0, 1800)
+    };
+  }).reverse();
+}
