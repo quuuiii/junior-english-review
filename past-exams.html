@@ -26,8 +26,8 @@ function count(){const n=Object.keys(answers).filter(x=>['A','B','C','D'].includ
 function renderSheet(){let box=$('sheet');box.replaceChildren();for(let i=1;i<=exam.count;i++){let c=document.createElement('div');c.className='cell';let label=document.createElement('b');label.textContent='第 '+i+' 題';c.append(label);let group=document.createElement('div');group.className='choices';for(const ch of 'ABCD'){let b=document.createElement('button');b.type='button';b.textContent=ch;b.setAttribute('aria-label','第'+i+'題選'+ch);b.className=answers[i]===ch?'chosen':'';b.onclick=()=>{answers[i]=ch;group.querySelectorAll('button').forEach(x=>x.classList.toggle('chosen',x===b));persist();count();renderDigital()};group.append(b)}c.append(group);box.append(c)}count();renderDigital()}
 function renderDigital(){
  const area=$('digitalQuestions');area.replaceChildren();
- const items=DIGITAL_QUESTIONS[exam.id]||[];
- $('digitalInfo').textContent=items.length?'目前已依原卷轉入前 '+items.length+' 題互動題目；其餘題組請對照上方完整原卷作答。圖片題請同時參考 PDF。':'這一回尚未完成逐題文字轉入，請先開啟原始試題本，使用下方電子答案卡作答。';
+ const items=exam.id==='115'?(DIGITAL_QUESTIONS[exam.id]||[]).slice(0,34):(DIGITAL_QUESTIONS[exam.id]||[]);
+ $('digitalInfo').textContent=items.length?'目前可在線上直接閱讀前 '+items.length+' 題；35～43 題涉及長篇閱讀和篇章填空，請使用原卷確認完整文章與選項，再於下方答案卡作答。圖片題請同時參考 PDF。':'這一回尚未完成逐題文字轉入，請先開啟原始試題本，使用下方電子答案卡作答。';
  for(let i=0;i<items.length;i++){
   const q=items[i],article=document.createElement('article');article.className='question-online';const heading=document.createElement('h3');heading.textContent='第 '+(i+1)+' 題';const body=document.createElement('p');body.textContent=q[0];article.append(heading,body);
   const options=document.createElement('div');options.className='online-options';
