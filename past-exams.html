@@ -12,7 +12,7 @@
 const EXAMS=[
 {id:'111',title:'111 年會考英語閱讀',count:43,pdf:'https://www.go100.com.tw/file/exam/J111/111P_English.pdf',source:'題本 PDF（第三方公開題本）'},
 {id:'112',title:'112 年會考英語閱讀',count:43,url:'https://cap-rcpet.rcpet.edu.tw/examination.html',source:'官方歷屆試題入口'},
-{id:'113',title:'113 年會考英語閱讀',count:43,url:'https://cap-rcpet.rcpet.edu.tw/examination.html',source:'官方歷屆試題入口'},
+{id:'113',title:'113 年會考英語閱讀',count:43,pdf:'https://cap.rcpet.edu.tw/exam/113/113P_English.pdf',source:'113 年教育會考原始試題 PDF'},
 {id:'114',title:'114 年會考英語閱讀',count:43,pdf:'https://reedjoe.com/wp-content/uploads/2025/05/114%E6%9C%83%E8%80%83%E8%8B%B1%E6%96%87%E7%A7%91%E8%A9%A6%E9%A1%8C_1140518.pdf',source:'題本 PDF（第三方公開題本）'},
 {id:'115',title:'115 年會考英語閱讀',count:43,pdf:'https://www.grow22.com/download/115/115_cp/02-1_115P_English.pdf',source:'115 年會考原始試題 PDF（完整圖文）'},
 {id:'111sample',title:'111 年英語閱讀參考試題',count:41,pdf:'https://jr.hs.ntnu.edu.tw/wp-content/uploads/2022/01/05-111%E5%B9%B4%E6%95%99%E8%82%B2%E6%9C%83%E8%80%83%E8%8B%B1%E8%AA%9E%E7%A7%91%E9%96%B1%E8%AE%80%E5%8F%83%E8%80%83%E8%A9%A6%E9%A1%8C%E6%9C%AC.pdf',source:'臺師大公開參考題本（非營利使用須遵照原頁聲明）'}];
@@ -50,7 +50,7 @@ function renderDigital(){
 }
 function clock(){$('timer').textContent=Math.floor(remaining/60).toString().padStart(2,'0')+':'+(remaining%60).toString().padStart(2,'0');$('clockBtn').textContent=ticking?'暫停計時':'開始／繼續計時'}
 function stop(){if(interval)clearInterval(interval);interval=null;ticking=false;clock()}
-function openExam(id){stop();exam=EXAMS.find(x=>x.id===id);$('workspace').classList.remove('hidden');$('paperTitle').textContent=exam.title;$('source').href=exam.pdf||exam.url;$('sourceInfo').textContent=exam.source;$('pdfArea').replaceChildren();if(exam.pdf&&!['114','115'].includes(exam.id)){let iframe=document.createElement('iframe');iframe.className='frame';iframe.title=exam.title+' PDF 預覽';iframe.src=exam.pdf;iframe.loading='lazy';$('pdfArea').append(iframe)}$('finishPanel').classList.add('hidden');$('name').value='';load();$('workspace').scrollIntoView({behavior:'smooth'})}
+function openExam(id){stop();exam=EXAMS.find(x=>x.id===id);$('workspace').classList.remove('hidden');$('paperTitle').textContent=exam.title;$('source').href=exam.pdf||exam.url;$('sourceInfo').textContent=exam.source;$('pdfArea').replaceChildren();if(exam.pdf&&!['113','114','115'].includes(exam.id)){let iframe=document.createElement('iframe');iframe.className='frame';iframe.title=exam.title+' PDF 預覽';iframe.src=exam.pdf;iframe.loading='lazy';$('pdfArea').append(iframe)}$('finishPanel').classList.add('hidden');$('name').value='';load();$('workspace').scrollIntoView({behavior:'smooth'})}
 EXAMS.forEach(e=>{const b=document.createElement('button');b.className='exam';b.innerHTML='<strong>'+e.title+'</strong><span>'+e.count+' 題｜60 分鐘</span><span>'+(e.pdf?'可開啟 PDF 題本':'連至官方試題附件')+'</span>';b.onclick=()=>openExam(e.id);$('examCards').append(b)});
 $('name').addEventListener('change',load);$('back').onclick=()=>{stop();$('workspace').classList.add('hidden');$('choose').scrollIntoView({behavior:'smooth'})};
 $('clockBtn').onclick=()=>{if(ticking){stop();persist();return}if(!remaining)return;ticking=true;clock();interval=setInterval(()=>{remaining=Math.max(0,remaining-1);clock();if(remaining%10===0)persist();if(!remaining){stop();persist();alert('60 分鐘已到，請檢查答案卡。')}},1000)};
