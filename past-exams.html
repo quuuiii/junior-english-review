@@ -61,9 +61,9 @@ const $=id=>document.getElementById(id);let exam=null,answers={},remaining=3600,
 function key(){return 'orbit-past-exam-v1:'+exam.id+':'+activeDraftName;}
 function persist(){if(!exam)return;try{localStorage.setItem(key(),JSON.stringify({answers,remaining,ticking:false}));$('saveMessage').textContent='✓ 答案已保存在此瀏覽器 '+new Date().toLocaleTimeString('zh-TW')}catch(e){$('saveMessage').textContent='⚠️ 無法儲存；請保留此頁'} }
 function load(){answers={};remaining=3600;try{let a=JSON.parse(localStorage.getItem(key())||'null');if(a&&a.answers&&typeof a.answers==='object'){answers=a.answers;remaining=Math.min(3600,Math.max(0,Number(a.remaining)||0))}}catch(e){}renderSheet();clock()}
-function count(){const n=Array.from({length:exam.count},(_,i)=>i+1).filter(i=>'ABCD'.includes(answers[i]||'')).length;$('count').textContent=n+' / '+exam.count+' 題';$('fill').style.width=(n/exam.count*100)+'%'}
+function count(){const n=Array.from({length:exam.count},(_,i)=>i+1).filter(i=>['A','B','C','D'].includes(answers[i])).length;$('count').textContent=n+' / '+exam.count+' 題';$('fill').style.width=(n/exam.count*100)+'%'}
 function setAnswer(number,letter){
- if(!exam||number<1||number>exam.count||!'ABCD'.includes(letter))return;
+ if(!exam||number<1||number>exam.count||!['A','B','C','D'].includes(letter))return;
  answers[number]=letter;
  persist();count();
  const sheetCell=$('sheet').children[number-1];
