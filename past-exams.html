@@ -12,10 +12,10 @@
  .review-item.hidden{display:block!important}
 }.timer-hint{font-size:.77rem;color:#6b7f8b}.clear-choice{display:inline-block;margin:10px 0 0;padding:5px 8px;border:0;border-radius:6px;background:#edf2f6;color:#3f647f;font-size:.85rem}.clear-choice:disabled{opacity:.45;cursor:default}.clear-choice:focus-visible{outline:3px solid #2a80bb;outline-offset:2px}</style></head><body>
 <header><a href="index.html">✦ English Orbit｜回單元複習</a></header><main>
-<div class="hero"><h1>📝 歷屆教育會考｜英語閱讀</h1><p>111～115 年正式會考，加上 111 年英語閱讀參考試題，共六回線上練習。每回 60 分鐘計時、自動保存答案並可交卷看解析；圖片與原文以原卷為準。</p><a href="https://cap-rcpet.rcpet.edu.tw/examination.html" target="_blank" rel="noopener">官方歷屆試題下載專區 ↗</a></div>
+<div class="hero"><h1>📝 歷屆教育會考｜英語閱讀</h1><p>111～115 年正式會考，加上 111 年英語閱讀參考試題，共六回線上練習。每回 60 分鐘計時、自動保存答案；可逐題清除作答、交卷篩選錯題，並匯出 CSV 或列印 A4 成績報告。圖片與原文以原卷為準。</p><a href="https://cap-rcpet.rcpet.edu.tw/examination.html" target="_blank" rel="noopener">官方歷屆試題下載專區 ↗</a></div>
 <div class="panel" id="choose"><h2>選擇試卷</h2><div class="grid" id="examCards"></div><p class="muted">111～115 年正式會考均已提供題目、答案與中文解析；111 年參考試題的答案屬教學推導版，尚非官方核對。各回均可在本機交卷計分。部分圖片、地圖、曲線圖為重繪示意，應以原卷為準。歷屆成績不會送往老師 Google Sheets。</p></div>
 <section id="workspace" class="hidden">
-<div class="panel"><div class="row" style="justify-content:space-between"><h2 id="paperTitle"></h2><button class="btn secondary" id="back">← 換一回</button></div><label for="name">學生姓名</label><input id="name" maxlength="80" placeholder="請填入姓名以識別自己的草稿"><p class="muted">同一裝置與瀏覽器會保存本回答案，切換不同試卷也不會刪除。</p><div class="row"><span class="pill" id="count" aria-live="polite">0 / 43 題</span><span id="timer">60:00</span><button id="clockBtn" class="btn secondary">開始計時</button><span class="muted timer-hint">切換分頁仍會依實際經過時間計算</span><button id="resetClock" class="btn secondary">重設計時</button><button id="resetAnswers" class="btn secondary">重新練習本回</button></div><div class="bar"><div class="fill" id="fill"></div></div></div>
+<div class="panel"><div class="row" style="justify-content:space-between"><h2 id="paperTitle"></h2><button class="btn secondary" id="back">← 換一回</button></div><label for="name">學生姓名</label><input id="name" maxlength="80" placeholder="請填入姓名以識別自己的草稿"><p class="muted">答案儲存在此裝置的瀏覽器，不會自動上傳；換試卷會保留各回草稿。若使用公用電腦，請留意個人資料。</p><div class="row"><span class="pill" id="count" aria-live="polite">0 / 43 題</span><span id="timer">60:00</span><button id="clockBtn" class="btn secondary">開始計時</button><span class="muted timer-hint">切換分頁仍會依實際經過時間計算</span><button id="resetClock" class="btn secondary">重設計時</button><button id="resetAnswers" class="btn secondary">重新練習本回</button></div><div class="bar"><div class="fill" id="fill"></div></div></div>
 <div class="panel"><h2>📄 原始試題備查</h2><p id="sourceInfo" class="muted"></p><a id="source" class="btn" target="_blank" rel="noopener" style="display:inline-block;text-decoration:none;margin-bottom:12px">開啟原卷／官方下載來源 ↗</a><div id="pdfArea"></div><p class="notice">部分年度的題本需要從官方頁面下載。若 PDF 無法在網頁內預覽，請點上方連結另開原卷，一邊看題本、一邊回來作答。</p></div>
 <div class="panel"><div class="row" style="justify-content:space-between"><h2>📖 線上題目</h2><div class="row"><label for="jumpQuestion">快速跳題</label><select id="jumpQuestion" aria-label="跳至指定題目"></select></div></div><p id="digitalInfo" class="muted"></p><div id="digitalQuestions"></div></div>
 <div class="panel"><h2>✏️ 電子答案卡</h2><p id="saveMessage" class="muted">選取後將自動儲存到此裝置。</p><div id="sheet" class="sheet"></div><div class="row" style="margin-top:18px"><button class="btn secondary" id="missing">跳至第一題未作答</button><button class="btn" id="finish">完成作答並查看答案卡</button></div><div id="finishPanel" class="hidden notice"></div></div></section></main>
@@ -143,7 +143,7 @@ window.addEventListener('pagehide',()=>{if(exam){syncTimer();persist()}});
 $('resetClock').onclick=()=>{if(confirm('確定要重新計時 60 分鐘？答案不會被清除。')){stop();remaining=3600;clock();persist()}};
 function csvCell(value){
  const str=String(value??'');
- const safe=/^[=+@\-\t\r]/.test(str)?("'"+str):str;
+ const safe=/^\s*[=+@-]/.test(str)?("'"+str):str;
  return '"'+safe.replace(/"/g,'""')+'"';
 }
 function exportGradeCsv(){
