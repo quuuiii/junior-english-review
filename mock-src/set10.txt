@@ -1,0 +1,306 @@
+=SET 10|分冊複習・第5～6冊|分詞作形容詞、假設語氣、使役動詞、關係副詞（where／when）、複合關係代名詞 what、過去完成式、現在完成進行式、the more...the more...、名詞子句、分詞構句、感嘆句、so...that／such...that
+## SINGLE
+1. By the time we got to the station, the train _____.
+A. left
+B. has left
+C. had left
+D. leaves
+=C 到達車站之前火車就已離開，先發生的動作用過去完成式 had left。
+2. I have been _____ for you for two hours. Where were you?
+A. wait
+B. waited
+C. waiting
+D. waits
+=C 現在完成進行式 have been + V-ing，強調動作從過去持續到現在。
+3. This is the house _____ my grandfather was born.
+A. which
+B. who
+C. where
+D. what
+=C 先行詞是地點 the house，關係副詞用 where。
+4. _____ you need is a good rest. You have worked too hard.
+A. That
+B. What
+C. Which
+D. Who
+=B What you need 是名詞子句作主詞，相當於 the thing that you need。
+5. The more you practice, the _____ you will play.
+A. good
+B. well
+C. better
+D. best
+=C the + 比較級 ..., the + 比較級 ...，well 的比較級是 better。
+6. It was _____ a hot day that nobody wanted to go outside.
+A. so
+B. too
+C. very
+D. such
+=D such + a + 形容詞 + 名詞 + that，表示「如此……以至於……」。
+7. _____ the door, he found the room was empty.
+A. Open
+B. Opened
+C. Opening
+D. To open
+=C 分詞構句，兩個動作由同一主詞完成，用現在分詞 Opening；即 When he opened the door。
+8. I don't know _____ the meeting will start.
+A. when
+B. what
+C. who
+D. whose
+=A 間接問句詢問時間，meeting will start 缺少時間，用 when。
+9. If I had more time, I _____ travel around the world.
+A. will
+B. would
+C. can
+D. am going to
+=B 與現在事實相反的假設，主要子句用 would + 原形動詞。
+10. Peter was the _____ student in the class who got full marks.
+A. one
+B. only
+C. alone
+D. lonely
+=B the only + 名詞，表示「唯一的」。
+11. I remember the day _____ we first met.
+A. what
+B. where
+C. when
+D. which
+=C 先行詞是時間 the day，關係副詞用 when。
+12. Please wait here _____ I come back. I won't be long.
+A. until
+B. unless
+C. during
+D. since
+=A until 表示「直到……為止」，請在這裡等到我回來。
+13. How _____ the little girl is! Everyone loves her.
+A. cute
+B. a cute
+C. cutely
+D. cuteness
+=A 感嘆句 How + 形容詞 + 主詞 + 動詞。
+14. Because of the heavy rain, the baseball game was _____.
+A. called off
+B. called on
+C. called up
+D. called in
+=A call off 表示取消。
+15. Tina asked me _____ I had finished the report.
+A. that
+B. if
+C. what
+D. who
+=B 間接問句表示「是否」，用 if。
+16. I wish I _____ more money last year. I could have bought the bag.
+A. have
+B. had
+C. had had
+D. would have
+=C 與過去事實相反的願望，wish 後面用過去完成式 had had。
+17. _____ by the news, the girl started to cry.
+A. Shocking
+B. Shocked
+C. Shock
+D. To shock
+=B 分詞構句表示被動，女孩是被消息震驚，用過去分詞 Shocked。
+18. This book is worth _____. You will learn a lot from it.
+A. read
+B. to read
+C. reading
+D. be read
+=C be worth + V-ing，值得做某事。
+19. A sign in an elevator says: "In case of fire, use the stairs." What should you do when there is a fire?
+A. Use the elevator.
+B. Wait in the elevator.
+C. Take the stairs.
+D. Open the windows.
+=C 發生火災時要走樓梯。
+## GROUP 20-22|海報|Green Living Fair
+Green Living Fair
+Come and see how small changes can make a big difference!
+Date: Saturday, October 14
+Time: 10:00 a.m. - 5:00 p.m.
+Place: City Park
+Activities:
+- Learn to make bags out of old T-shirts (11:00 a.m. and 2:00 p.m.)
+- Free bike check (all day)
+- Talk: "Eat Local, Save the Earth" (3:30 p.m.)
+Bring your own cup and get a free drink from our booth!
+Everything at the fair is free, but donations are welcome.
+20. What can people do at 2:00 p.m.?
+A. Check their bikes.
+B. Listen to a talk.
+C. Make bags from old T-shirts.
+D. Get a free drink.
+=C 下午兩點有用舊 T 恤做袋子的活動。
+21. How can people get a free drink?
+A. By giving some money.
+B. By bringing their own cups.
+C. By joining the talk.
+D. By riding a bike.
+=B 自備杯子就能領到免費飲料。
+22. What is true about the fair?
+A. It is held indoors.
+B. It lasts for two days.
+C. People have to buy tickets.
+D. Most activities are free.
+=D 活動幾乎都免費，只歡迎捐款。
+## GROUP 23-24|短文|A Letter to Myself
+Last year, my English teacher asked us to write a letter to ourselves. We were going to open it one year later. At first, I thought it was silly. But when I opened the letter last week, I was moved. I wrote about my fears and dreams. I had wanted to join the school band, but I was afraid of playing in front of others. Now I am the drummer of the band! Reading the letter made me realize how much I have grown. I think I will write another one for next year.
+23. When did the writer open the letter?
+A. As soon as he wrote it.
+B. A week ago.
+C. A month later.
+D. Two years later.
+=B 他上週打開了那封信，已是寫信一年後。
+24. What did the writer realize after reading the letter?
+A. He had grown a lot.
+B. He wrote too slowly.
+C. He needed a new teacher.
+D. He should stop playing in the band.
+=A 讀信讓他體認到自己成長了多少。
+## GROUP 25-27|對話|Talking about a Trip
+Ellie: How was your trip to Kyoto, Sam?
+Sam: It was wonderful! I had always wanted to see the temples, and they were more beautiful than I had imagined.
+Ellie: Did you try any local food?
+Sam: Yes. We went to a small restaurant that was recommended by a friend. The tofu there was so delicious that I ate three bowls.
+Ellie: Three bowls! What else did you do?
+Sam: We rented kimonos and walked around the old streets. I took hundreds of photos.
+Ellie: I'd love to see them. By the way, would you go again?
+Sam: Definitely. If I had more vacation days, I would stay longer.
+25. Why did Sam eat three bowls of tofu?
+A. He was very hungry.
+B. It was very cheap.
+C. His friend ordered it.
+D. It was so delicious.
+=D 他說豆腐好吃到吃了三碗。
+26. What did Sam do in the old streets?
+A. He rented a car.
+B. He wore kimonos.
+C. He ate out every night.
+D. He took the train.
+=B 他們租了和服在老街散步。
+27. What does Sam mean by "If I had more vacation days, I would stay longer"?
+A. He has many vacation days.
+B. He doesn't have enough vacation days.
+C. He won't go back to Kyoto.
+D. He stayed for too long.
+=B 假設語氣表示與事實相反，事實是假期不夠多。
+## GROUP 28-29|電子郵件|Job Application
+To: Ms. Wang
+From: Kevin Lin
+Subject: Application for the Summer Job
+Dear Ms. Wang,
+I am writing to apply for the summer job at your bookstore. I am a high school student, and I have loved books since I was a child. I have been working part-time at the school library for a year, so I know how to organize books and help readers. I am also good at using computers. I can work from June to August, and I am available on weekends. I have attached my résumé. I look forward to hearing from you.
+Yours sincerely,
+Kevin Lin
+28. Why does Kevin write to Ms. Wang?
+A. To buy some books.
+B. To apply for a job.
+C. To ask about a library.
+D. To invite her to school.
+=B 信的開頭就說明他想申請暑期工作。
+29. What experience does Kevin have?
+A. He has worked at a library for a year.
+B. He has run a bookstore.
+C. He has taught computers.
+D. He has written a book.
+=A 他已經在學校圖書館打工一年。
+## GROUP 30-32|資訊表|Museum Guide
+City Science Museum
+Opening hours: Tuesday - Sunday, 9:30 a.m. - 5:00 p.m. (Closed on Mondays)
+Tickets: Adults $150, Students $100, Children under 6 free
+Special exhibition: "Space Adventure" (extra $50 per person)
+Guided tours: 10:30 a.m. and 2:30 p.m. (30 minutes, free)
+Cameras are welcome, but flashes are not allowed.
+Food is not allowed in the exhibition rooms.
+30. How much do two students pay to visit the museum and the special exhibition?
+A. $150
+B. $200
+C. $250
+D. $300
+=D 每位學生 $100 加特展 $50，共 $150，兩人是 $300。
+31. What is true about the guided tours?
+A. They cost $50.
+B. They last half an hour.
+C. They are only for adults.
+D. They start at 9:30.
+=B 導覽時間是 30 分鐘，也就是半小時。
+32. Which is NOT allowed in the museum?
+A. Taking photos.
+B. Using flashes.
+C. Taking a guided tour.
+D. Visiting on Sundays.
+=B 館方歡迎相機，但不得使用閃光燈。
+## GROUP 33-34|公告|Volunteer Wanted
+Volunteers Wanted for Elderly Care
+Every Saturday morning, the Sunshine Care Center invites young people to spend time with elderly people. You can play cards, read newspapers, or just talk with them. No special skills are needed. All you need is a warm heart and some patience. If you are interested, come to the center this Saturday at 9:00 a.m. for a short training. Every volunteer will receive a certificate after ten visits, which is useful for school applications.
+33. What can volunteers do at the center?
+A. Cook meals.
+B. Give medical care.
+C. Play cards with the elderly.
+D. Teach English.
+=C 志工可以和長者玩牌、讀報或聊天。
+34. What will volunteers get after ten visits?
+A. Some money.
+B. A free meal.
+C. A new card.
+D. A certificate.
+=D 十次探訪後，志工會拿到證書。
+## GROUP 35-37|短文|The Little Library
+In some towns, you may see a small wooden box on the street. It looks like a mailbox, but it is full of books. It is called a "Little Free Library." The idea is simple: take a book, and leave a book. People do not need to pay or sign anything. The first Little Free Library was built in the United States in 2009 by a man who wanted to honor his mother, a teacher who loved reading. Today, there are more than 100,000 such libraries around the world. Many people say that these boxes have brought neighbors closer, because strangers often leave notes inside the books.
+35. What is a "Little Free Library"?
+A. A big building with many rooms.
+B. A shop selling books.
+C. A mailbox for letters.
+D. A small box where people share books.
+=D 它是街上讓人分享書籍的小木箱。
+36. Why did the man build the first one?
+A. To sell books to the town.
+B. To honor his mother.
+C. To teach children to read.
+D. To make money.
+=B 他想紀念熱愛閱讀的母親。
+37. What can we learn from the last sentence?
+A. Strangers dislike each other.
+B. Neighbors write to each other often.
+C. Little libraries help people connect.
+D. Books are too heavy to carry.
+=C 陌生人在書裡留言，使鄰居變得更親近。
+## GROUP 38-43|填空|A Special Teacher
+Mr. Hill is a teacher __38__ I will never forget. He has taught at our school for thirty years. When I was in Grade 7, I was a shy boy who __39__ speak in public. Mr. Hill noticed this and asked me __40__ a short talk in class. I was scared, but he said, "You'll do fine." That day, I gave my first speech, and my classmates clapped. Mr. Hill taught me that __41__ we want to improve, we must try. Now I __42__ in the debate club for two years. I am thankful for all he has done __43__ me.
+38.
+A. who
+B. whose
+C. which
+D. what
+=A 先行詞是人 a teacher，關係代名詞用 who；whose 需接名詞，which 用於物，what 不能接先行詞。
+39.
+A. isn't able to
+B. didn't dare to
+C. couldn't afford to
+D. wasn't going to
+=B 害羞的男孩「不敢」在公眾面前說話，用 didn't dare to。
+40.
+A. give
+B. gave
+C. giving
+D. to give
+=D ask + 人 + to V。
+41.
+A. if
+B. although
+C. unless
+D. so
+=A 如果我們想進步，就必須嘗試，用 if 引導條件。
+42.
+A. am
+B. was
+C. have been
+D. will be
+=C for two years 表示持續到現在，用現在完成式 have been。
+43.
+A. for
+B. to
+C. at
+D. with
+=A do something for me，表示為我所做的事。

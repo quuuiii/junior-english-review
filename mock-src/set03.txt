@@ -1,0 +1,310 @@
+=SET 3|分冊複習・第1～2冊|祈使句、現在進行式與現在簡單式、過去簡單式（be 動詞）、can 問答句、時間／場所介系詞、數量形容詞、名詞單複數、可數與不可數名詞、人稱／指示代名詞、Wh- 疑問詞、How many／How much、and／but／or、There is/are、時間與星期、序數、頻率副詞
+## SINGLE
+1. Please _____ quiet in the library. Some students are reading.
+A. are
+B. be
+C. is
+D. being
+=B 祈使句要用原形動詞，be 動詞的原形是 be。
+2. Look! The girls _____ in the park. They are having a good time.
+A. dance
+B. dances
+C. are dancing
+D. danced
+=C Look! 提示動作正在進行，用現在進行式。
+3. My uncle _____ in a bank. He works from Monday to Friday.
+A. work
+B. works
+C. working
+D. is work
+=B 描述固定的工作，主詞是第三人稱單數，動詞加 s。
+4. Mr. Chen _____ a teacher five years ago. Now he is a doctor.
+A. is
+B. were
+C. be
+D. was
+=D five years ago 表示過去，主詞 Mr. Chen 用 was。
+5. A: _____ is your birthday? B: It's on September 18.
+A. Who
+B. Where
+C. When
+D. How
+=C 回答是日期，問「何時」用 When。
+6. My house is _____ the bank and the post office. It's easy to find.
+A. between
+B. behind
+C. across
+D. from
+=A between A and B 表示在兩者之間。
+7. There aren't _____ eggs in the fridge. Let's go and buy some.
+A. some
+B. a
+C. much
+D. any
+=D 否定句中表示「任何」用 any，eggs 是複數。
+8. _____ is my English teacher. I like _____ very much.
+A. He; he
+B. She; her
+C. She; she
+D. Her; her
+=B 第一格用主格 She，第二格作動詞 like 的受詞，用受格 her。
+9. These _____ my friends. Those _____ my brother's friends.
+A. is; is
+B. are; is
+C. is; are
+D. are; are
+=D These 和 Those 都是複數，要搭配 are。
+10. A: _____ does your mother go shopping? B: Twice a week.
+A. How many
+B. How much
+C. How often
+D. How long
+=C 回答是頻率 twice a week，用 How often。
+11. Jerry can't _____ a bike, but he can ride a horse.
+A. rides
+B. ride
+C. riding
+D. to ride
+=B can't 後面接原形動詞。
+12. It's ten _____ six. We have to go now.
+A. at
+B. in
+C. of
+D. to
+=D ten to six 是五點五十分。
+13. Two _____ are playing basketball on the court.
+A. man
+B. mans
+C. men
+D. mens
+=C man 的複數是不規則變化 men。
+14. We have _____ homework today, so we can go out and play.
+A. a few
+B. many
+C. a little
+D. an
+=C homework 是不可數名詞，「一點點」用 a little。
+15. Dad _____ the newspaper every morning. He doesn't watch TV.
+A. read
+B. is reading
+C. reads
+D. reading
+=C every morning 表示習慣，第三人稱單數用 reads。
+16. The fifth month of the year is _____.
+A. April
+B. March
+C. May
+D. June
+=C 一年的第五個月是五月。
+17. A: Is there a bank near here? B: _____
+A. Yes, there is.
+B. Yes, it is.
+C. Yes, there are.
+D. Yes, they are.
+=A 問句是 Is there...?，肯定回答用 Yes, there is.
+18. I like my room, _____ it is a little small.
+A. and
+B. so
+C. or
+D. but
+=D 喜歡房間，但房間有點小，語意轉折，用 but。
+19. A shop has a sign: "Buy one hamburger, get one free." Mary wants two hamburgers. How many does she pay for?
+A. One.
+B. Two.
+C. Three.
+D. None.
+=A 買一送一，要兩個只需付一個的錢。
+## GROUP 20-22|廣告|Happy Pet Shop
+Happy Pet Shop
+Dogs, cats, birds, and fish - we have them all!
+Opening Hours: Tuesday to Sunday, 10:00 a.m. - 8:00 p.m.
+Closed on Mondays
+Special Offer: Buy a fish bowl and get three goldfish for free!
+Dog food: $12 per bag
+Cat food: $10 per bag
+Bird food: $6 per bag
+Free class for new pet owners every Saturday at 3:00 p.m.
+20. When is the pet shop closed?
+A. On Sundays.
+B. On Mondays.
+C. After 6 p.m.
+D. On Saturdays.
+=B 廣告寫 Closed on Mondays。
+21. Tom has a dog and a bird. He buys food for them. How much does he pay?
+A. $16
+B. $18
+C. $20
+D. $22
+=B 狗飼料 $12 加鳥飼料 $6，共 $18。
+22. What can new pet owners do on Saturday?
+A. Get a free fish bowl.
+B. Take a free class.
+C. Buy a pet for half price.
+D. Play with the dogs for free.
+=B 每週六下午三點有新手飼主的免費課程。
+## GROUP 23-24|短文|Sally's Family
+There are five people in Sally's family: her parents, her older brother, her little sister, and Sally. Sally's father is a bus driver. He gets up at five o'clock every morning. Her mother is a nurse. She works at night, so she sleeps in the morning. Sally's brother, Jack, is fifteen. He is a good basketball player. Sally's little sister is only three. She is very cute. Sally loves her family very much.
+23. Which of the following is true?
+A. Sally's father gets up late.
+B. Sally's mother works at night.
+C. Jack is three years old.
+D. Sally's sister is a basketball player.
+=B 文中說媽媽晚上工作，所以早上睡覺。
+24. Who is the youngest in Sally's family?
+A. Sally.
+B. Jack.
+C. Sally's little sister.
+D. Sally's mother.
+=C 小妹妹只有三歲，是年紀最小的。
+## GROUP 25-27|對話|In the Library
+Tina: Excuse me, where is the English dictionary?
+Mr. Lin: It's on the third floor, next to the computers.
+Tina: Thanks. Can I read it here?
+Mr. Lin: Yes, you can. But you can't take it home.
+Tina: That's OK. I only need it for ten minutes. By the way, what time does the library close?
+Mr. Lin: At six on weekdays. But on Saturday and Sunday, it closes at four.
+Tina: Is it open on Monday?
+Mr. Lin: Yes, it is. It is closed only on national holidays.
+Tina: Thank you very much!
+25. Where is the English dictionary?
+A. On the first floor.
+B. Next to the door.
+C. On the third floor.
+D. Behind Mr. Lin.
+=C Mr. Lin 說在三樓，電腦旁邊。
+26. What can Tina do with the dictionary?
+A. Take it home.
+B. Read it in the library.
+C. Buy it from Mr. Lin.
+D. Give it to a friend.
+=B Can I read it here? Yes, you can。
+27. When does the library close on Sunday?
+A. At four.
+B. At five.
+C. At six.
+D. At seven.
+=A 週末是四點閉館。
+## GROUP 28-29|電子郵件|My New Pet
+To: Aunt May
+From: Ken
+Subject: A new friend
+Dear Aunt May,
+How are you? I have a new pet now! It is a rabbit. Her name is Snow. She is white, and she has two big ears. She likes carrots and lettuce. Every afternoon, I play with her in the yard. My sister doesn't like her because Snow eats her flowers! Please come to see Snow this weekend.
+Love, Ken
+28. Why does Ken write to Aunt May?
+A. To say hello and tell her about his pet.
+B. To ask her for some carrots.
+C. To say sorry to his sister.
+D. To invite her to a birthday party.
+=A 信中問候並介紹新寵物，最後邀請她來看。
+29. Why doesn't Ken's sister like Snow?
+A. Snow is very big.
+B. Snow bites people.
+C. Snow eats her flowers.
+D. Snow is always noisy.
+=C 文中說 Snow eats her flowers。
+## GROUP 30-32|天氣表|Weather This Week
+Weather This Week
+Monday: sunny, 30°C
+Tuesday: cloudy, 27°C
+Wednesday: rainy, 24°C
+Thursday: rainy, 23°C
+Friday: sunny, 29°C
+Saturday: windy, 26°C
+Sunday: sunny, 31°C
+30. Which day is the coldest?
+A. Tuesday.
+B. Wednesday.
+C. Thursday.
+D. Saturday.
+=C Thursday 是 23°C，最低。
+31. How many rainy days are there this week?
+A. One.
+B. Two.
+C. Three.
+D. Four.
+=B Wednesday 和 Thursday 兩天是雨天。
+32. Anna wants to fly a kite. Which day is the best?
+A. Monday.
+B. Wednesday.
+C. Friday.
+D. Saturday.
+=D 放風箏需要有風，Saturday 是 windy。
+## GROUP 33-34|公告|School Trip
+Notice
+Our class trip is next Friday, October 20. We are going to the Science Museum.
+The bus leaves school at 8:00 a.m. Please be at school at 7:45.
+Bring: lunch, water, and a notebook.
+Do not bring: snacks or phones.
+We come back to school at 4:30 p.m.
+Mr. Wang
+33. What time should students be at school on October 20?
+A. At 7:30.
+B. At 7:45.
+C. At 8:00.
+D. At 4:30.
+=B 公告要求七點四十五分到校。
+34. What can students bring?
+A. A phone.
+B. Some snacks.
+C. A notebook.
+D. A game.
+=C 公告列出可帶 lunch, water, notebook。
+## GROUP 35-37|短文|A Busy Morning
+It is seven o'clock in the morning. The Lee family is very busy. Mr. Lee is making breakfast in the kitchen. He is cooking eggs and making sandwiches. Mrs. Lee is looking for her car keys. She can't find them. Their son, Dan, is brushing his teeth. Their daughter, Amy, is still sleeping. Mr. Lee says, "Amy, get up! It's time for school!" Amy opens her eyes and says, "Dad, is it Sunday?" Mr. Lee laughs. "No, it isn't. Today is Monday."
+35. What is Mr. Lee doing?
+A. He is looking for his keys.
+B. He is brushing his teeth.
+C. He is cooking breakfast.
+D. He is waking up.
+=C 爸爸正在廚房煮蛋、做三明治。
+36. What is Mrs. Lee looking for?
+A. Her keys.
+B. Her son.
+C. Her phone.
+D. Her bag.
+=A She is looking for her car keys。
+37. What does Amy think?
+A. She thinks it is Sunday.
+B. She thinks it is time for school.
+C. She thinks she is late.
+D. She thinks breakfast is ready.
+=A Amy 問 is it Sunday?，表示她以為是星期天。
+## GROUP 38-43|填空|My Best Friend
+Hello! My name is Kelly. I want to tell you about my best friend, Joy. She is thirteen years old, and she is in my class. Joy __38__ a lot of books. She is very smart, __39__ she is not proud. There __40__ many books in her room. Last week, she was sick, but this week she is fine. __41__ Saturday, we usually go to the library together. __42__ do we read there? We read story books and magazines. After that, we often have lunch __43__ a small restaurant near the library.
+38.
+A. read
+B. reads
+C. reading
+D. to read
+=B Joy 是第三人稱單數，現在簡單式動詞加 s。
+39.
+A. so
+B. or
+C. but
+D. because
+=C 她很聰明，但不驕傲，語意轉折，用 but。
+40.
+A. is
+B. are
+C. am
+D. be
+=B many books 是複數，用 There are。
+41.
+A. In
+B. At
+C. On
+D. For
+=C 星期幾前面用 on。
+42.
+A. Who
+B. Where
+C. When
+D. What
+=D 回答是 story books and magazines，所以問 What do we read there?
+43.
+A. at
+B. on
+C. in
+D. of
+=A 在餐廳用餐，表示場所用 at a small restaurant。

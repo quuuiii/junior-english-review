@@ -1,0 +1,306 @@
+=SET 8|分冊複習・第1～4冊|第1～4冊綜合：各種時態（現在、過去、未來、進行、完成）、被動語態、關係代名詞、間接問句、比較級與最高級、不定詞與動名詞、助動詞、連接詞、附加問句
+## SINGLE
+1. Alice _____ in London for three years before she moved to Taipei.
+A. lives
+B. lived
+C. has lived
+D. is living
+=B before she moved 表示過去的時間，主要子句也用過去式 lived。
+2. The tickets for the concert _____ out in two hours yesterday.
+A. sell
+B. sold
+C. were sold
+D. was sold
+=C 票是被賣掉的，主詞 tickets 是複數，過去被動用 were sold。
+3. I'm not sure whether he _____ to the party tonight.
+A. come
+B. comes
+C. coming
+D. will come
+=D tonight 表示未來，whether 子句用 will come。
+4. Mom told us to stop _____ video games and go to bed.
+A. play
+B. played
+C. playing
+D. to play
+=C stop + V-ing 表示停止正在做的事。
+5. The girl _____ hair is very long is my classmate.
+A. who
+B. whose
+C. which
+D. that
+=B 先行詞 The girl 與 hair 是所有關係，用 whose。
+6. Neither Tom nor his parents _____ at home now.
+A. is
+B. was
+C. are
+D. be
+=C Neither...nor 的動詞和靠近它的主詞一致，parents 是複數，現在式用 are。
+7. A: Have you ever been to Tainan? B: Yes. I _____ there last summer.
+A. go
+B. went
+C. have gone
+D. have been
+=B last summer 是明確的過去時間，不能與完成式連用，要用過去式 went。
+8. Linda is _____ of all the girls in her class.
+A. tall
+B. taller
+C. the tallest
+D. more tall
+=C 在全班女生中比較，用 the tallest。
+9. If it _____ tomorrow, we will stay at home.
+A. rains
+B. rained
+C. will rain
+D. is raining
+=A if 條件子句表示未來時，動詞用現在式 rains。
+10. It was kind _____ you to help me move the boxes.
+A. at
+B. for
+C. of
+D. to
+=C It is + 表示人品德的形容詞 + of + 人 + to V。
+11. This isn't my pen. Mine _____ on the desk.
+A. is
+B. are
+C. were
+D. be
+=A Mine 代表 my pen，是單數，現在式用 is。
+12. The students were told _____ quiet during the test.
+A. keep
+B. keeps
+C. to keep
+D. keeping
+=C be told to V，被告知要做某事。
+13. This soup is _____ hot to drink. Please wait for a few minutes.
+A. very
+B. so
+C. too
+D. enough
+=C too + 形容詞 + to V，表示「太……而不能……」。
+14. How _____ has your sister been in Japan?
+A. much
+B. many
+C. long
+D. often
+=C 問時間長度，用 How long。
+15. You didn't bring your umbrella, _____?
+A. did you
+B. didn't you
+C. do you
+D. will you
+=A 前面是否定句，附加問句用肯定形式；過去式用 did you。
+16. The boy broke the vase _____ he was playing basketball in the house.
+A. while
+B. but
+C. so
+D. or
+=A 打球的同時打破花瓶，表示同時發生的兩動作，用 while。
+17. Be careful! The floor is wet. You may _____.
+A. fall
+B. falls
+C. fell
+D. falling
+=A may 後面接原形動詞 fall。
+18. The story _____ I read last night was about a brave dog.
+A. who
+B. what
+C. which
+D. whose
+=C 先行詞是物 The story，作 read 的受詞，用 which。
+19. A notice at a pool says: "Children under 120 cm must be with an adult." Tim is 110 cm tall. What must he do?
+A. Swim alone.
+B. Go with an adult.
+C. Wait until he is older.
+D. Buy a ticket.
+=B 低於 120 公分的孩子必須有大人陪同，Tim 才 110 公分。
+## GROUP 20-22|海報|Night Market Photo Contest
+Night Market Photo Contest
+Do you love taking pictures? Show us the night market you know!
+Rules:
+1. Each person can send in two photos.
+2. Photos must be taken in our city.
+3. Send your photos to nightphoto@mail.com by Sunday, April 30.
+Prizes:
+First prize: $5,000
+Second prize: $3,000
+Third prize: $1,000
+The winners will be shown on our website on May 10.
+20. What do people have to do to join the contest?
+A. Take photos of food.
+B. Send in photos by April 30.
+C. Visit the website.
+D. Pay $1,000.
+=B 規則要求在 4 月 30 日前寄出照片。
+21. Which of the following is true?
+A. Each person can send three photos.
+B. Photos can be taken anywhere.
+C. The first prize is $3,000.
+D. The winners will be shown online.
+=D 得獎者會在網站上公布。
+22. When can people know who the winners are?
+A. On April 30.
+B. On May 10.
+C. On May 1.
+D. After June.
+=B 5 月 10 日得獎者會顯示在網站上。
+## GROUP 23-24|短文|Zoe's Garden
+Zoe lives in a small apartment, but she has a "garden" on the balcony. She grows tomatoes, mint, and a few flowers in old milk bottles. Every morning, she gets up early to give them water. Last month, she found small green tomatoes on the plants, and she was so happy that she took many pictures. Two weeks later, the tomatoes turned red. She used them to make a salad for her family. Her mother said it was the best salad she had ever eaten.
+23. Where is Zoe's garden?
+A. In a park.
+B. On the balcony.
+C. On the roof.
+D. In front of the building.
+=B 她的花園在陽台上。
+24. What did Zoe do with the red tomatoes?
+A. She sold them.
+B. She gave them to neighbors.
+C. She took pictures of them.
+D. She made a salad.
+=D 番茄變紅後，她用來做了沙拉。
+## GROUP 25-27|對話|Choosing a Gift
+Wendy: Mom's birthday is next week. Have you thought about what to buy?
+Ted: Not yet. Maybe flowers?
+Wendy: She received a lot of flowers last year. Why don't we buy her a scarf? Winter is coming.
+Ted: Good idea. But I don't know which color she likes.
+Wendy: She often wears red or white, so I think a white scarf will be good.
+Ted: OK. Where can we get one?
+Wendy: There's a department store near the MRT station. It's having a big sale this week.
+Ted: Great. Let's go this Saturday.
+25. What does Wendy suggest buying?
+A. Some flowers.
+B. A hat.
+C. A scarf.
+D. A cake.
+=C Wendy 建議買圍巾，因為冬天快到了。
+26. Why doesn't Wendy want to buy flowers?
+A. They are too expensive.
+B. Mom got many flowers last year.
+C. Mom is allergic to flowers.
+D. Ted bought some already.
+=B 媽媽去年已經收到很多花了。
+27. When will they go shopping?
+A. On Saturday.
+B. Next week.
+C. On Mom's birthday.
+D. Tonight.
+=A Ted 說這個星期六去。
+## GROUP 28-29|電子郵件|Class Party
+To: All students in Class 8-3
+From: Ms. Liu
+Subject: End-of-year party
+Dear students,
+Our end-of-year party will be held in our classroom on Friday, January 12, from 1:00 p.m. to 3:00 p.m. Everyone has to bring one dish to share. Please tell me what you are going to bring by Tuesday, so that we will not have the same food. Ann and Ryan have agreed to decorate the room, and Jason will bring the music. If you want to help, please let me know. I'm sure it will be a great party!
+Ms. Liu
+28. What does Ms. Liu want students to do by Tuesday?
+A. Decorate the classroom.
+B. Tell her what food they will bring.
+C. Bring the music.
+D. Pay some money for the party.
+=B 星期二前要告訴老師各自會帶什麼菜，避免重複。
+29. Who will bring the music?
+A. Ms. Liu.
+B. Ann.
+C. Ryan.
+D. Jason.
+=D 信中說 Jason 會帶音樂。
+## GROUP 30-32|價目表|Rental Bikes
+Green Wheels Bike Rental
+Regular bike: $50 for 1 hour, $150 for half a day (4 hours), $250 for a whole day
+Electric bike: $100 for 1 hour, $300 for half a day, $500 for a whole day
+Helmet: free
+Child seat: $30 per day
+Open every day from 8:00 a.m. to 6:00 p.m.
+Bikes must be returned before 6:00 p.m.
+30. Jill wants a regular bike for five hours. What is the cheapest way?
+A. Rent it for five hours.
+B. Rent it for half a day and one more hour.
+C. Rent it for a whole day.
+D. Rent it for two half days.
+=B 半天 $150 加一小時 $50 共 $200，比一整天 $250 便宜，也比五小時 $250 便宜。
+31. How much does an electric bike cost for half a day?
+A. $100
+B. $200
+C. $300
+D. $500
+=C 電動車半天是 $300。
+32. Which is true?
+A. People have to pay for helmets.
+B. Child seats cost $30 a day.
+C. The shop opens at 6 p.m.
+D. Bikes can be returned the next day.
+=B 兒童座椅一天 $30。
+## GROUP 33-34|公告|School Library
+Notice to all students
+Starting next week, the school library will be open until 6:00 p.m. on weekdays. In the past, it closed at 4:30 p.m. We made this change because many students said they needed more time to study after school. Students who stay late must sign their names at the door. Please remember to keep the library clean and quiet. Thank you for your cooperation.
+Principal Huang
+33. Why did the school change the library hours?
+A. Some students wanted more study time.
+B. The teachers wanted to go home early.
+C. The library needs cleaning.
+D. There are too many books.
+=A 許多學生表示放學後需要更多時間念書。
+34. What must students do if they stay late?
+A. Sign their names.
+B. Pay for the lights.
+C. Ask the principal.
+D. Bring their own books.
+=A 晚留的學生要在門口簽名。
+## GROUP 35-37|短文|The Honest Boy
+Ken found a wallet on the street on his way home. There was a lot of money in it, and he was tempted to keep it. He had wanted to buy a new pair of shoes for a long time, but his family didn't have much money. He thought for a while and then took the wallet to the police station. The next day, the owner, an old man, came to Ken's house to thank him. He wanted to give Ken some money, but Ken said no. "I only did what I should do," he said. The old man was moved and told Ken's story to the newspaper. Soon, many people knew about Ken's kindness.
+35. Why was Ken tempted to keep the wallet?
+A. He didn't have a wallet.
+B. His family didn't have much money.
+C. He wanted to buy a gift for the old man.
+D. The wallet was very nice.
+=B 他很想買新鞋，但家裡沒什麼錢。
+36. What did Ken do with the wallet?
+A. He kept it.
+B. He gave it to a friend.
+C. He took it to the police station.
+D. He took it to the newspaper.
+=C 他把皮夾送到警察局。
+37. What did the old man do after he met Ken?
+A. He gave Ken some shoes.
+B. He told Ken's story to the newspaper.
+C. He took Ken to dinner.
+D. He sent Ken a letter.
+=B 老人很感動，把肯的故事告訴了報社。
+## GROUP 38-43|填空|The Smart Watch
+My father gave me a smart watch for my birthday. It can tell me the time, and it can also __38__ how many steps I take every day. At first, I thought it was just a toy, but now I use it all the time. The watch is __39__ by a small battery, so I have to charge it every night. Last week, I forgot __40__ it, and the watch stopped working at school. My classmates laughed at me. Since then, I __41__ it every night before I go to bed. My father is always telling me that I should be __42__ with my things. I think he is right, so I am trying to be more __43__.
+38.
+A. count
+B. counts
+C. counted
+D. counting
+=A can 後面接原形動詞 count。
+39.
+A. power
+B. powered
+C. powering
+D. powers
+=B 手錶是由電池供電，用被動語態 is powered by。
+40.
+A. charge
+B. to charge
+C. charging
+D. charged
+=B forget to V 表示忘記去做某事。
+41.
+A. charge
+B. charged
+C. have charged
+D. am charging
+=C Since then 搭配現在完成式 have charged。
+42.
+A. careful
+B. carefully
+C. care
+D. carelessly
+=A be 動詞後面接形容詞 careful。
+43.
+A. responsible
+B. responsibility
+C. responsibly
+D. respond
+=A more 後面接形容詞 responsible。

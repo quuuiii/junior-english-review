@@ -1,0 +1,307 @@
+=SET 7|分冊複習・第3～4冊|過去簡單式與過去進行式、未來式、比較級與最高級、不定詞與動名詞、助動詞、現在完成式、被動語態、關係代名詞、間接問句、感官動詞、附加問句、連接詞
+## SINGLE
+1. We _____ in the middle of dinner when the lights went out.
+A. were
+B. are
+C. have been
+D. will be
+=A when 子句用過去式 went out，當時的狀態用過去式 were（were in the middle of 表示正在……的過程中）。
+2. Have you ever _____ a horse before?
+A. ride
+B. rode
+C. ridden
+D. riding
+=C ever 搭配現在完成式，ride 的過去分詞是 ridden。
+3. The movie was _____ than I thought. I almost fell asleep.
+A. boring
+B. more boring
+C. most boring
+D. the most boring
+=B 後面有 than，用比較級 more boring。
+4. My mother asked me _____ out the trash before dinner.
+A. take
+B. took
+C. taking
+D. to take
+=D ask + 人 + to V。
+5. This song is loved _____ many young people around the world.
+A. by
+B. for
+C. with
+D. in
+=A 被動語態中動作的執行者用 by。
+6. Judy has lived in Kaohsiung _____ she was born.
+A. for
+B. since
+C. when
+D. after
+=B since 後面接過去的時間點或子句，與 has lived 搭配。
+7. A: Did you go to the baseball game? B: No. I _____ to the game, but I was too busy.
+A. would go
+B. was going to go
+C. went
+D. have gone
+=B was going to 表示過去原本打算做但沒做到的事。
+8. Do you know when _____ for the trip?
+A. will we leave
+B. did we leave
+C. we will leave
+D. are we leaving
+=C 間接問句用肯定句語序：疑問詞 + 主詞 + 動詞。
+9. The man _____ lives next door is a famous painter.
+A. which
+B. who
+C. whose
+D. what
+=B 先行詞是人 The man，作主詞用 who。
+10. Mark was too tired _____ his homework last night.
+A. finish
+B. finishes
+C. to finish
+D. finishing
+=C too ... to V 表示「太……而無法……」。
+11. The cake looks _____, but I don't like sweet food.
+A. deliciously
+B. delicious
+C. deliciousness
+D. more deliciously
+=B look 是連綴動詞，後面接形容詞 delicious。
+12. You have to wear a helmet when you ride a motorcycle, _____ you?
+A. don't
+B. do
+C. haven't
+D. have
+=A 前面是肯定句，附加問句用否定；have to 是一般動詞，用 don't you。
+13. A: How long has your uncle _____ a teacher? B: For about twenty years.
+A. be
+B. been
+C. being
+D. was
+=B has 後面接過去分詞 been。
+14. When I was walking along the river, I _____ an old friend.
+A. meet
+B. meets
+C. met
+D. was meeting
+=C 走路是持續中的動作，另一個短暫動作「遇見」用過去簡單式 met。
+15. Jason is the _____ boy in my class. Nobody runs faster than him.
+A. fast
+B. faster
+C. fastest
+D. more fast
+=C the + 最高級，沒有人比他快，所以是最快的。
+16. The window is open. Who _____ it?
+A. opens
+B. opened
+C. was opened
+D. has been opened
+=B 問「誰打開的」，主詞是 Who，用主動語態過去式 opened。
+17. She sounds _____ on the phone. Maybe she has a cold.
+A. tired
+B. tiredly
+C. tire
+D. tiring
+=A sound 是連綴動詞，後面接形容詞；tired 表示感到疲倦。
+18. I'm sorry I'm late. I _____ the wrong bus.
+A. take
+B. am taking
+C. took
+D. will take
+=C 說明遲到的原因是過去搭錯了車，用過去式 took。
+19. A sign in front of a shop says: "Open from 9 a.m. to 9 p.m., seven days a week." What does it mean?
+A. The shop is closed on Sundays.
+B. The shop is open every day.
+C. The shop opens at 9 p.m.
+D. The shop is open for seven hours a day.
+=B seven days a week 表示每天都營業。
+## GROUP 20-22|海報|Bake with Us
+Bake with Us!
+Learn to make cookies, bread, and cakes at the Sweet Home Bakery.
+Class 1: Cookies (Saturday, 10:00 - 12:00) - $400
+Class 2: Bread (Saturday, 2:00 - 4:00) - $500
+Class 3: Cakes (Sunday, 10:00 - 12:00) - $600
+Students aged 12 or under need a parent to come with them.
+If you take all three classes, you only pay $1,200.
+Please sign up one week before the class. You will take home what you make!
+20. Which class is on Sunday?
+A. Cookies.
+B. Bread.
+C. Cakes.
+D. All of them.
+=C 只有 Class 3 蛋糕課在星期日。
+21. Mike takes all three classes. How much money does he save?
+A. $100
+B. $200
+C. $300
+D. $400
+=B 三堂課原價 $400+$500+$600=$1,500，優惠價 $1,200，省下 $300。
+22. What is true about the classes?
+A. Students can take home what they make.
+B. Parents cannot join the classes.
+C. All the classes are in the morning.
+D. Students can sign up on the same day.
+=A 海報最後說學生可以帶走自己做的成品。
+## GROUP 23-24|短文|Tom and the Robot
+Tom's school held a robot contest last month. Tom wanted to join, but he didn't know how to build a robot. He asked his uncle, who is an engineer, for help. His uncle taught him how to use a small computer. Every night after dinner, Tom worked on his robot for two hours. On the day of the contest, his robot could walk and pick up a ball. It did not win first place, but Tom was very proud. He learned that hard work is more important than winning.
+23. Who helped Tom build the robot?
+A. His teacher.
+B. His uncle.
+C. His classmate.
+D. His father.
+=B Tom 請當工程師的叔叔幫忙。
+24. What did Tom learn from the contest?
+A. He should ask for help every time.
+B. He can win first place easily.
+C. Hard work is more important than winning.
+D. Robots are better than people.
+=C 文末說他學到努力比獲勝更重要。
+## GROUP 25-27|對話|At the Train Station
+Passenger: Excuse me. How can I get to the National Museum?
+Officer: You can take the MRT Red Line and get off at Central Station. It's about twenty minutes.
+Passenger: Is it far from the station to the museum?
+Officer: No, it isn't. You can walk there in five minutes. Just go straight on Park Road and turn left at the bank.
+Passenger: Thank you. By the way, how much is the ticket?
+Officer: It's $30 for adults. But if you buy a day pass for $100, you can ride as many times as you want.
+Passenger: I'm going to visit three places today. I think I'll buy the day pass.
+Officer: Good idea!
+25. How will the passenger go to the museum?
+A. By taxi.
+B. By bus.
+C. By MRT.
+D. On foot only.
+=C 警員建議搭捷運紅線到中央車站。
+26. Where should the passenger turn left?
+A. At the museum.
+B. At the bank.
+C. At the station.
+D. At the park.
+=B 沿公園路直走，在銀行處左轉。
+27. Why will the passenger buy the day pass?
+A. It is cheaper than a ticket.
+B. The officer told him to.
+C. He will go to several places.
+D. He doesn't have enough cash.
+=C 他今天要去三個地方，所以買一日票。
+## GROUP 28-29|電子郵件|Moving Away
+To: Sophie
+From: Daniel
+Subject: Big news
+Dear Sophie,
+I have some news for you. My family is going to move to Kaohsiung next month because my dad has found a new job there. I'm sad because I have lived here since I was born. I have known you for ten years, and you are my best friend. I'm going to miss our walks after school. But I promise we will keep in touch. I'll send you pictures of my new school, and maybe you can come to visit me in the summer.
+Your friend,
+Daniel
+28. Why is Daniel's family moving?
+A. Daniel wants a bigger house.
+B. Daniel's dad has a new job.
+C. Daniel's school is closing.
+D. Daniel's friends are moving.
+=B 因為爸爸在高雄找到了新工作。
+29. What does Daniel hope Sophie will do?
+A. Move to Kaohsiung with him.
+B. Send him pictures.
+C. Visit him in the summer.
+D. Write to his dad.
+=C Daniel 希望 Sophie 夏天能去看他。
+## GROUP 30-32|時間表|Movie Times
+Starlight Cinema - Today's Movies
+"Sea Adventure": 1:00 p.m., 4:00 p.m., 7:00 p.m. (120 minutes)
+"The Lost City": 2:30 p.m., 6:00 p.m., 9:30 p.m. (90 minutes)
+Tickets: $280 for adults, $200 for students
+Children under 6 cannot see "The Lost City".
+Buy online and save $30 per ticket.
+30. What time does the 6:00 p.m. showing of "The Lost City" finish?
+A. At 7:00 p.m.
+B. At 7:30 p.m.
+C. At 8:00 p.m.
+D. At 8:30 p.m.
+=B 影片長 90 分鐘，六點開始，七點半結束。
+31. Two students buy tickets online. How much do they pay in total?
+A. $340
+B. $370
+C. $400
+D. $460
+=A 學生票 $200，線上購票每張省 $30，所以一張 $170，兩張共 $340。
+32. Who can NOT see "The Lost City"?
+A. Students.
+B. Adults.
+C. Children under six.
+D. People who bought tickets online.
+=C 六歲以下兒童不能觀看。
+## GROUP 33-34|公告|Beach Cleanup
+Beach Cleanup Day
+Our town's beaches have become dirty because of too much trash. Let's clean them together!
+Date: Sunday, June 4, 8:00 a.m. - 11:00 a.m.
+Meeting point: North Beach parking lot
+Bring: gloves, a hat, and sunscreen. Bags will be provided.
+Everyone who takes part will get a free T-shirt and a cold drink.
+Children under twelve must be with an adult.
+33. What will the volunteers get?
+A. Gloves and hats.
+B. Trash bags.
+C. A T-shirt and a drink.
+D. Some sunscreen.
+=C 參加者可獲得免費 T 恤與冷飲。
+34. Which of the following is true?
+A. Volunteers must bring their own bags.
+B. The event is in the afternoon.
+C. The meeting point is the beach café.
+D. Young children must come with an adult.
+=D 十二歲以下兒童要有大人陪同。
+## GROUP 35-37|短文|A Cup of Tea
+There was once a young man named Leo. He was always in a hurry and never listened to others. One day he went to visit a wise old teacher. The teacher began to pour tea into Leo's cup. The cup became full, but the teacher kept pouring, and tea ran all over the table. "Stop! The cup is full!" Leo shouted. The teacher smiled and said, "Like this cup, your mind is full of your own ideas. If you want to learn something new, you must first make some room." Leo understood and bowed to the teacher.
+35. What was Leo like at first?
+A. He was kind and quiet.
+B. He was always in a hurry.
+C. He was a wise man.
+D. He was a tea teacher.
+=B 文中第二句說他總是匆匆忙忙，也不聽別人說話。
+36. Why did the teacher keep pouring tea?
+A. He wanted Leo to drink more tea.
+B. He didn't see the cup was full.
+C. He wanted to show Leo something.
+D. He was angry at Leo.
+=C 老師用倒茶的動作比喻，讓 Leo 明白道理。
+37. What does the teacher want to tell Leo?
+A. Tea is good for learning.
+B. Leo should make room in his mind.
+C. Leo should drink less tea.
+D. The cup is too small.
+=B 老師說想學新東西，必須先讓心中有空間。
+## GROUP 38-43|填空|Learning Chinese
+Jim is an American boy. He has been in Taiwan __38__ two years. At first, it was hard for him to learn Chinese because the characters __39__ very difficult. Many people helped him, and now he can talk with his classmates in Chinese. His teacher, __40__ is very kind, says he is making great progress. Last week, Jim was asked __41__ a speech in Chinese at school. He was so nervous __42__ he forgot some words. But everyone clapped for him. He is going to keep practicing so that he can speak Chinese __43__ than he does now.
+38.
+A. since
+B. for
+C. at
+D. when
+=B 後面接一段時間 two years，與 has been 搭配，用 for。
+39.
+A. look
+B. looks
+C. looking
+D. looked
+=D 「漢字看起來很難」，背景是過去，用過去式 looked 作連綴動詞。
+40.
+A. who
+B. which
+C. whose
+D. whom
+=A 先行詞是 His teacher，補充說明人並作主詞，用 who。
+41.
+A. give
+B. to give
+C. giving
+D. gives
+=B be asked to V，被要求做某事。
+42.
+A. that
+B. because
+C. if
+D. but
+=A so + 形容詞 + that 子句，表示「如此……以至於……」。
+43.
+A. well
+B. good
+C. better
+D. best
+=C 後面有 than，用比較級；well 的比較級是 better。

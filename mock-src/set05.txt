@@ -1,0 +1,311 @@
+=SET 5|分冊複習・第1～3冊|第1～3冊綜合：現在簡單式與進行式、過去簡單式與過去進行式、未來式、比較級與最高級、不定詞與動名詞、助動詞、連接詞、介系詞、名詞與代名詞
+## SINGLE
+1. Sam _____ his homework when his mother came home.
+A. does
+B. did
+C. was doing
+D. is doing
+=C when 子句用過去式 came，主要子句描述當時正在進行的動作，用過去進行式。
+2. A: How _____ do you play the piano? B: Three times a week.
+A. long
+B. much
+C. many
+D. often
+=D 回答次數 three times a week，問頻率用 How often。
+3. The weather is getting _____. Let's take a jacket with us.
+A. cold
+B. colder
+C. coldest
+D. the coldest
+=B get + 比較級表示「越來越……」，這裡用 colder。
+4. My brother and I _____ to the same school, but we are in different classes.
+A. goes
+B. go
+C. went
+D. going
+=B 主詞是 My brother and I（複數），敘述事實用現在簡單式 go。
+5. Mom told me _____ the window before I went to bed.
+A. close
+B. closes
+C. to close
+D. closing
+=C tell + 人 + to V，用不定詞 to close。
+6. There _____ a lot of people in the night market last Friday.
+A. is
+B. are
+C. was
+D. were
+=D a lot of people 是複數，last Friday 是過去，用 were。
+7. Ann is good at _____ cakes. Everyone loves her cakes.
+A. make
+B. makes
+C. to make
+D. making
+=D be good at 後面接動名詞 making。
+8. A: Is that your umbrella? B: No, it isn't _____. Mine is blue.
+A. my
+B. me
+C. I
+D. mine
+=D 空格後面沒有名詞，要用所有格代名詞 mine（我的），表示「不是我的」。
+9. Nick can't come to the party _____ he is sick.
+A. because
+B. but
+C. if
+D. so
+=A 不能參加派對的原因是生病，用 because。
+10. We _____ visit the museum this Sunday. Do you want to come with us?
+A. are going to
+B. were going to
+C. went to
+D. going to
+=A this Sunday 表示未來，主詞 We 用 are going to。
+11. Of all the animals in the zoo, the elephant is _____.
+A. big
+B. bigger
+C. the biggest
+D. more big
+=C 在所有動物中比較，用 the + 最高級 the biggest。
+12. Please _____ your cell phone off in the movie theater.
+A. turn
+B. turns
+C. turning
+D. to turn
+=A 祈使句用原形動詞 turn。
+13. How _____ water do you drink every day?
+A. many
+B. much
+C. long
+D. old
+=B water 是不可數名詞，問數量用 How much。
+14. When I got home, my sister _____ TV in the living room.
+A. watches
+B. is watching
+C. watched
+D. was watching
+=D 我到家的那一刻，妹妹正在看電視，用過去進行式。
+15. The little boy is too short _____ the book on the top shelf.
+A. reach
+B. reaches
+C. to reach
+D. reaching
+=C too + 形容詞 + to V，表示「太……而不能……」。
+16. A: Would you like some tea? B: _____. I don't like hot drinks.
+A. Yes, please
+B. No, thanks
+C. Sure
+D. All right
+=B 後面說不喜歡熱飲，所以是婉拒，用 No, thanks。
+17. You look tired. You _____ go to bed early tonight.
+A. shouldn't
+B. should
+C. mustn't
+D. won't
+=B 看起來很累，建議今晚早點睡，用 should。
+18. My father is a bus driver. He gets up _____ five o'clock every morning.
+A. in
+B. on
+C. at
+D. for
+=C 表示幾點鐘的時間點，介系詞用 at。
+19. A card in a restaurant says: "Wait here to be seated." What should customers do?
+A. Sit down anywhere they like.
+B. Wait for a table.
+C. Order food at once.
+D. Go to the kitchen.
+=B 標示要求客人在此等候帶位。
+## GROUP 20-22|海報|Reading Club
+Join Our Reading Club!
+Do you love stories? Come and share them with us!
+When: Every Wednesday, 4:00 p.m. - 5:00 p.m.
+Where: Room 205, School Library
+Who: Students in Grade 7 and Grade 8
+This month's book: The Little Prince
+Please read Chapters 1 to 5 before the first meeting on March 6.
+Snacks and drinks are free for everyone!
+To join, tell Ms. Lai in the library.
+20. Who can join the reading club?
+A. Only teachers.
+B. Students in Grade 7 and Grade 8.
+C. Students in Grade 9.
+D. Everyone in the town.
+=B 海報寫明對象是七年級和八年級學生。
+21. What should members do before March 6?
+A. Buy some snacks.
+B. Bring some drinks.
+C. Tell stories to Ms. Lai.
+D. Read the first five chapters.
+=D 第一次聚會前要讀完第 1 到 5 章。
+22. Which is true about the club?
+A. It meets once a week.
+B. It meets in the classroom.
+C. It meets after dinner.
+D. It meets on Fridays.
+=A 每週三聚會，所以一週一次。
+## GROUP 23-24|短文|Ellen's Piano
+Ellen started to learn the piano when she was six. At first, she didn't like to practice. She only played for ten minutes a day. One day, her teacher said, "Ellen, you can play very well. Why don't you play for your classmates?" Ellen was afraid, but she tried. Everyone clapped their hands after her show. After that, she wanted to play every day. Now she practices for an hour every evening. She wants to be a famous piano player in the future.
+23. How long did Ellen practice every day at first?
+A. For one hour.
+B. For six minutes.
+C. For ten minutes.
+D. For two hours.
+=C 一開始她每天只彈十分鐘。
+24. Why did Ellen want to play every day after the show?
+A. Her teacher told her to.
+B. She enjoyed playing for others.
+C. She wanted to buy a new piano.
+D. Her classmates asked her to.
+=B 演出後大家鼓掌，她因此想要每天彈琴，表示她享受為別人演奏。
+## GROUP 25-27|對話|At the Clothes Store
+Clerk: Hello. Can I help you?
+Nina: Yes, please. I'm looking for a jacket for my brother. He is fourteen.
+Clerk: How about this blue one? It's $900.
+Nina: It's nice, but a little expensive. Do you have a cheaper one?
+Clerk: This green one is only $700.
+Nina: Oh, I like it more! Does it come in a bigger size?
+Clerk: Yes. I'll go and check. Please wait a moment... Here you are.
+Nina: Great. I'll take it. Can I pay by credit card?
+Clerk: Sorry, we only take cash.
+Nina: OK. Here you are.
+25. Why doesn't Nina buy the blue jacket?
+A. It is too small.
+B. It is too expensive for her.
+C. She doesn't like blue.
+D. It is for a girl.
+=B Nina 說藍色那件有點貴，並詢問較便宜的。
+26. How much does Nina pay for the jacket?
+A. $700
+B. $900
+C. $1,600
+D. $1,800
+=A 她買了綠色夾克，要價 $700。
+27. How does Nina pay?
+A. By credit card.
+B. With cash.
+C. With a gift card.
+D. By phone.
+=B 店員說只收現金，Nina 於是付現。
+## GROUP 28-29|電子郵件|Thank You
+To: Mr. Smith
+From: Alice
+Subject: Thank you for last week
+Dear Mr. Smith,
+Thank you very much for teaching our class last week. We all enjoyed your class on American food. I was surprised to learn that hamburgers did not come from the United States. I also loved the apple pie you brought. After class, I told my mother about it, and she wants to make one this weekend. Would you like to share your recipe with us? We hope you can visit our school again soon.
+Best wishes,
+Alice
+28. Why did Alice write this e-mail?
+A. To ask for a new teacher.
+B. To thank Mr. Smith and ask for a recipe.
+C. To invite Mr. Smith to dinner.
+D. To say sorry to Mr. Smith.
+=B 她感謝老師的課，並請他分享食譜。
+29. What does Alice's mother want to do this weekend?
+A. Visit Mr. Smith.
+B. Teach a class.
+C. Buy hamburgers.
+D. Make an apple pie.
+=D 媽媽想在這個週末做一個蘋果派。
+## GROUP 30-32|菜單|Lunch Menu
+Lucky Lunch Box
+Set A: Chicken and rice - $90
+Set B: Fish and noodles - $85
+Set C: Vegetable curry and rice (no meat) - $80
+All sets come with a free drink (tea or juice).
+Add $15 for a dessert (cake or ice cream).
+Free delivery if your order is over $500.
+30. Which set is for people who don't eat meat?
+A. Set A.
+B. Set B.
+C. Set C.
+D. None of them.
+=C Set C 是無肉的蔬菜咖哩飯。
+31. Ken orders Set B and a dessert. How much does he pay?
+A. $85
+B. $95
+C. $100
+D. $105
+=C Set B $85 加甜點 $15，共 $100。
+32. When can customers get free delivery?
+A. When they order a drink.
+B. When they order two sets.
+C. When they order a dessert.
+D. When they spend more than $500.
+=D 訂單超過 $500 就能免費外送。
+## GROUP 33-34|公告|Sports Day
+Notice: Sports Day
+Date: Friday, November 10
+Time: 8:30 a.m. - 3:00 p.m.
+Events: running, jumping, and basketball
+Students should wear their sports clothes and bring their own water bottles.
+If it rains, we will have Sports Day on Monday, November 13.
+Please tell your parents. They are welcome to watch!
+33. What should students bring?
+A. Lunch boxes.
+B. Basketballs.
+C. Water bottles.
+D. Umbrellas.
+=C 公告要求學生帶自己的水壺。
+34. When will Sports Day be if it rains on November 10?
+A. On November 11.
+B. On November 12.
+C. On November 13.
+D. On November 14.
+=C 如果下雨，運動會改在 11 月 13 日星期一。
+## GROUP 35-37|短文|A Quiet Neighbor
+Mr. Wu lives next to my house. He is seventy years old and lives alone. At first, we didn't talk to each other because he never smiled. One day, I saw him carrying a heavy box up the stairs, so I helped him. He thanked me and gave me some tea. After that, we became friends. Now I visit him every weekend. He tells me stories about his life, and I help him with his garden. My mother says Mr. Wu is a good friend to our family. I think I am also lucky to have him as my neighbor.
+35. Why didn't the writer talk to Mr. Wu at first?
+A. Mr. Wu was always angry.
+B. Mr. Wu never smiled.
+C. Mr. Wu lived far away.
+D. Mr. Wu was too busy.
+=B 文中說一開始因為他從不微笑，所以沒有交談。
+36. How did the writer and Mr. Wu become friends?
+A. The writer helped Mr. Wu carry a box.
+B. Mr. Wu helped the writer with homework.
+C. They worked in the same garden.
+D. They met at school.
+=A 作者幫他搬重箱子，之後成為朋友。
+37. What does the writer do now?
+A. He drinks tea alone every day.
+B. He plants flowers in his garden.
+C. He teaches Mr. Wu English.
+D. He talks with Mr. Wu and helps him on weekends.
+=D 他每個週末拜訪吳先生，聽故事也幫忙整理花園。
+## GROUP 38-43|填空|My Favorite Season
+My favorite season is spring. In spring, the weather is warm and it __38__ rain very much. Flowers are everywhere. Last spring, my family went to the mountains. We __39__ a picnic under a big tree. My dad took many pictures __40__ the flowers. My brother wanted __41__ a butterfly, but he couldn't. He ran very fast, __42__ the butterfly was faster than he was. We were all very tired but happy. I am looking forward to __43__ spring again.
+38.
+A. don't
+B. doesn't
+C. isn't
+D. didn't
+=B it 是第三人稱單數，現在簡單式否定用 doesn't。
+39.
+A. have
+B. has
+C. had
+D. having
+=C Last spring 是過去式，have 的過去式是 had。
+40.
+A. in
+B. of
+C. for
+D. with
+=B take pictures of 是「拍……的照片」。
+41.
+A. catch
+B. catches
+C. to catch
+D. catching
+=C want 後面接不定詞 to catch。
+42.
+A. so
+B. but
+C. or
+D. and
+=B 跑得很快卻沒追到，因為蝴蝶更快，語意轉折，用 but。
+43.
+A. see
+B. saw
+C. seeing
+D. to see
+=C look forward to 的 to 是介系詞，後面接動名詞 seeing。

@@ -1,0 +1,307 @@
+=SET 9|分冊複習・第1～5冊|第1～5冊綜合：各種時態、被動語態、關係代名詞、分詞作形容詞、副詞子句（although／unless／so...that／as soon as）、假設語氣、使役動詞、too...to／enough to、感嘆句
+## SINGLE
+1. The news about the accident was really _____. Everyone felt sad.
+A. shock
+B. shocked
+C. shocking
+D. shocks
+=C 主詞是事物（news），表示「令人震驚的」，用現在分詞形容詞 shocking。
+2. I was so _____ in the book that I forgot to eat lunch.
+A. interest
+B. interested
+C. interesting
+D. interests
+=B 主詞是人，表示「感興趣的」，用過去分詞 interested；be interested in。
+3. If I _____ you, I would tell the teacher the truth.
+A. am
+B. was
+C. were
+D. will be
+=C 與現在事實相反的假設，if 子句 be 動詞一律用 were。
+4. Although it rained heavily, the game _____.
+A. cancelled
+B. was cancelled
+C. wasn't cancelled
+D. is cancelled
+=C Although 表示讓步，語意為「雖然下大雨，比賽卻沒有被取消」，且過去被動否定用 wasn't cancelled。
+5. My mother let me _____ out with my friends on Saturday night.
+A. go
+B. to go
+C. going
+D. went
+=A let + 受詞 + 原形動詞。
+6. What a beautiful day _____!
+A. is
+B. it is
+C. are
+D. that is
+=B 感嘆句 What + a + 形容詞 + 名詞 + 主詞 + 動詞，這裡 it is。
+7. You won't pass the test _____ you study harder.
+A. if
+B. unless
+C. when
+D. because
+=B unless 等於 if...not，表示「除非」。
+8. This box is _____ heavy for me to carry.
+A. too
+B. very
+C. enough
+D. so
+=A too + 形容詞 + to V，太重而搬不動。
+9. As soon as she _____ home, she turned on the TV.
+A. gets
+B. got
+C. will get
+D. has gotten
+=B 兩個動作都發生在過去，turned 是過去式，所以 as soon as 子句也用過去式。
+10. The boy _____ under the tree is my cousin.
+A. sleep
+B. slept
+C. sleeping
+D. sleeps
+=C 現在分詞片語後置修飾名詞，表示「正在樹下睡覺的男孩」。
+11. He was so excited _____ he couldn't sleep.
+A. that
+B. which
+C. what
+D. because
+=A so + 形容詞 + that 子句。
+12. Mr. Lee made his son _____ the room before going out.
+A. cleans
+B. cleaned
+C. cleaning
+D. clean
+=D make + 受詞 + 原形動詞。
+13. The man _____ you met yesterday is our new principal.
+A. whose
+B. which
+C. whom
+D. what
+=C 先行詞是人，作 met 的受詞，用 whom。
+14. The letter _____ in English was sent to me yesterday.
+A. write
+B. wrote
+C. written
+D. writing
+=C 過去分詞後置修飾名詞，表示「被寫成英文的信」。
+15. I wish I _____ a bird. Then I could fly anywhere.
+A. am
+B. was
+C. were
+D. will be
+=C wish 後面接與現在事實相反的願望，be 動詞用 were。
+16. He is old enough _____ a car.
+A. drive
+B. to drive
+C. driving
+D. drives
+=B 形容詞 + enough + to V。
+17. A: How _____ do you go to the gym? B: Three times a week.
+A. long
+B. often
+C. much
+D. soon
+=B 回答次數 three times a week，問頻率用 How often。
+18. The teacher asked us _____ talk in class.
+A. not
+B. not to
+C. don't
+D. not for
+=B ask + 人 + not to V。
+19. A sign on the door says: "Staff Only." Who can go in?
+A. Anyone.
+B. Only the workers.
+C. Only children.
+D. Only customers.
+=B Staff Only 表示只有員工可以進入。
+## GROUP 20-22|廣告|Language Exchange
+Language Exchange Club
+Want to learn English or Chinese? Come and make friends!
+We meet every Thursday at 7:00 p.m. at the Sunny Coffee Shop.
+How it works:
+- First hour: we speak English.
+- Second hour: we speak Chinese.
+Everyone is welcome! You don't need to pay for the club, but please buy your own drink.
+This month's topic: Traveling around the world. Share your best trip with us!
+For more details, send an e-mail to club@mail.com.
+20. How long does each meeting last?
+A. One hour.
+B. Two hours.
+C. Three hours.
+D. All night.
+=B 第一小時說英文，第二小時說中文，共兩小時。
+21. What do members have to pay for?
+A. The club fee.
+B. A trip.
+C. Their own drinks.
+D. The coffee shop.
+=C 聚會免費，但要自己買飲料。
+22. What will members talk about this month?
+A. Their best trip.
+B. Their favorite food.
+C. Their school life.
+D. Their jobs.
+=A 這個月的主題是旅行，分享最棒的旅行。
+## GROUP 23-24|短文|Bird Feeder
+Last winter, my grandfather put a bird feeder in our garden. At first, no birds came. He was surprised, but he didn't give up. He moved the feeder to a different place near a tree and added some seeds. Two days later, a small brown bird came. Soon more birds arrived. Now we can watch them every morning. My grandfather says that being patient is important. If you wait long enough, good things will come.
+23. What did Grandfather do when no birds came?
+A. He took the feeder away.
+B. He put it in a different place.
+C. He bought a bigger feeder.
+D. He asked the neighbors for help.
+=B 他把餵食器移到樹旁邊另一個位置。
+24. What does Grandfather mean?
+A. Birds are afraid of people.
+B. Winter is the best time to feed birds.
+C. Good things come to those who wait.
+D. It is easy to feed birds.
+=C 他說有耐心很重要，等得夠久好事就會來。
+## GROUP 25-27|對話|A Part-time Job
+Mia: Hi, Dan. You look tired today.
+Dan: I am. I started working at a restaurant last week, and I have to wash dishes until ten every night.
+Mia: Wow! Why do you want to work?
+Dan: I'm saving money to buy a camera. I've wanted one for a year, but it costs $15,000.
+Mia: That's a lot. How much have you saved so far?
+Dan: About $6,000. If I keep working, I will have enough by the end of the summer.
+Mia: Good for you. But don't forget to get some rest. If you get sick, you won't be able to work.
+Dan: You're right. I'll go to bed earlier from now on.
+25. Why does Dan work at the restaurant?
+A. He wants to learn cooking.
+B. He wants to buy a camera.
+C. He wants to make friends.
+D. He wants to save his father's money.
+=B 他想存錢買相機。
+26. How much does Dan still need to save?
+A. $6,000
+B. $9,000
+C. $15,000
+D. $21,000
+=B 相機 $15,000，已存 $6,000，還差 $9,000。
+27. What does Mia advise Dan to do?
+A. Work harder.
+B. Buy a cheaper camera.
+C. Get some rest.
+D. Find another job.
+=C Mia 提醒他不要忘了休息。
+## GROUP 28-29|電子郵件|Roommate Wanted
+To: Class 9-2
+From: Mr. Chen
+Subject: Exchange Student
+Dear students,
+We are going to have a new exchange student from Canada next month. His name is Noah, and he will stay with us for one year. He doesn't speak much Chinese, so I hope you can help him get used to our school life. If you know any family who would like to host him, please let me know by the end of this week. The host family will receive $5,000 a month from the school.
+Thank you!
+Mr. Chen
+28. What does Mr. Chen ask the students to do?
+A. Teach Noah Chinese for free.
+B. Help Noah get used to school life.
+C. Invite Noah to a party.
+D. Take Noah to Canada.
+=B 他希望同學幫助 Noah 適應學校生活。
+29. What should students do by the end of this week?
+A. Tell Mr. Chen if they know a host family.
+B. Pay $5,000 to the school.
+C. Write a letter to Noah.
+D. Learn some English.
+=A 本週末前要告訴老師有沒有認識願意接待的家庭。
+## GROUP 30-32|節目表|Radio Schedule
+FM 98.5 Weekend Programs
+Saturday
+8:00 - 10:00 Morning Music
+10:00 - 11:00 Health Talk
+2:00 - 4:00 Movie World
+Sunday
+8:00 - 9:00 English Lesson
+9:00 - 11:00 Travel Stories
+3:00 - 5:00 Classic Songs
+30. How long is "Health Talk"?
+A. Thirty minutes.
+B. One hour.
+C. Two hours.
+D. Three hours.
+=B Health Talk 從 10:00 到 11:00，共一小時。
+31. Peter wants to improve his English. Which program should he listen to?
+A. Health Talk.
+B. Movie World.
+C. Travel Stories.
+D. English Lesson.
+=D English Lesson 是學習英文的節目。
+32. When can people listen to Travel Stories?
+A. Saturday at 10:00.
+B. Sunday at 9:00.
+C. Sunday at 3:00.
+D. Saturday at 2:00.
+=B Travel Stories 在星期日 9:00 到 11:00。
+## GROUP 33-34|公告|Parking Notice
+Notice to all residents
+From next Monday, the parking lot behind Building B will be closed for two weeks because the ground needs fixing. During this time, please park your cars in the lot in front of Building A. It will be crowded, so we suggest that you take buses or ride bikes when possible. Anyone who parks in the wrong place may have to pay a $500 fine. We are sorry for the trouble.
+Building Management Office
+33. Why will the parking lot be closed?
+A. It is going to be a garden.
+B. The ground needs fixing.
+C. There are too many cars.
+D. A new building is coming.
+=B 因為地面需要整修。
+34. What may happen if someone parks in the wrong place?
+A. They will have to pay a fine.
+B. Their cars will be sold.
+C. They will not see a notice.
+D. They will lose their room.
+=A 停錯位置可能被罰 $500。
+## GROUP 35-37|短文|Learning from Failure
+Thomas Edison is one of the most famous inventors in history. He invented the light bulb, but it didn't happen overnight. Before he made one that worked, he tried more than a thousand times. A reporter once asked him, "How does it feel to fail so many times?" Edison answered, "I didn't fail. I just found a thousand ways that didn't work." This attitude helped him keep trying. Today, many people remember Edison not only because of his inventions but also because of his courage in the face of failure.
+35. What is the passage mainly about?
+A. How the light bulb works.
+B. How Edison viewed failure.
+C. Why reporters ask questions.
+D. Who invented the telephone.
+=B 短文重點在說明愛迪生如何看待失敗。
+36. How many times did Edison try before he made a light bulb that worked?
+A. About ten.
+B. About one hundred.
+C. More than one thousand.
+D. Only once.
+=C 他試了超過一千次。
+37. Why do many people remember Edison?
+A. He was a famous reporter.
+B. His inventions and courage.
+C. He was the richest man.
+D. He wrote many books.
+=B 人們記得他是因為發明與面對失敗的勇氣。
+## GROUP 38-43|填空|Plastic Bags
+Many people use plastic bags every day, __38__ they don't think about the trouble they cause. Plastic bags are not easy to break down. It takes hundreds of years __39__ a plastic bag to disappear. Some animals eat plastic by mistake, and they __40__ sick or even die. If we don't do anything, the problem __41__ worse. That's __42__ more and more shops now ask customers to bring their own bags. If everyone __43__ a cloth bag, we can save a lot of plastic.
+38.
+A. and
+B. but
+C. so
+D. or
+=B 很多人天天使用塑膠袋，但沒想過帶來的麻煩，語意轉折，用 but。
+39.
+A. for
+B. of
+C. to
+D. in
+=A It takes + 時間 + for + 人事物 + to V，這裡 for a plastic bag to disappear。
+40.
+A. get
+B. gets
+C. got
+D. getting
+=A 主詞 they 為複數，現在簡單式，get sick 表示生病。
+41.
+A. will get
+B. gets
+C. got
+D. getting
+=A 這是 If 子句的主要子句，表示未來，用 will get worse。
+42.
+A. what
+B. why
+C. when
+D. how
+=B That's why + 結果，表示「這就是為什麼……」。
+43.
+A. use
+B. uses
+C. used
+D. using
+=B everyone 是第三人稱單數，if 條件子句用現在式 uses。

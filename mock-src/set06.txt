@@ -1,0 +1,304 @@
+=SET 6|分冊複習・第4冊|現在完成式（for／since／already／yet／ever／never）、被動語態、關係代名詞（who／which／that）、間接問句、感官動詞與連綴動詞、as...as 比較、副詞、附加問句
+## SINGLE
+1. Lucy has _____ in Taipei for ten years.
+A. live
+B. lived
+C. living
+D. lives
+=B has 後面接過去分詞，live 的過去分詞是 lived。
+2. A: Have you finished your homework _____? B: Not yet.
+A. already
+B. ever
+C. yet
+D. never
+=C 完成式疑問句詢問「是否已經」用 yet，與回答 Not yet 相呼應。
+3. This temple _____ in 1890. It is more than one hundred years old.
+A. built
+B. was built
+C. is building
+D. has built
+=B 廟是被建造的，用被動語態；1890 是過去時間，用 was built。
+4. The girl _____ is singing on the stage is my cousin.
+A. who
+B. which
+C. what
+D. whose
+=A 先行詞是人 The girl，關係代名詞作主詞用 who。
+5. Do you know where _____?
+A. does Tom live
+B. Tom lives
+C. Tom live
+D. is Tom living
+=B 間接問句用肯定句語序，主詞在動詞前，且動詞配合主詞變化為 lives。
+6. The soup smells _____. I want to have some.
+A. well
+B. good
+C. goodly
+D. nicely
+=B smell 是感官動詞，後面接形容詞 good。
+7. Peter has _____ been to Japan, so he wants to go there someday.
+A. never
+B. ever
+C. already
+D. yet
+=A 因為沒去過所以想去，用 never。
+8. This bag is not as _____ as that one. It's cheaper.
+A. expensive
+B. more expensive
+C. most expensive
+D. expensively
+=A not as ... as 中間用形容詞原級 expensive。
+9. The window _____ by the boy yesterday.
+A. broke
+B. was broken
+C. has broken
+D. is broken
+=B 窗戶被打破，用被動語態；yesterday 表示過去，用 was broken。
+10. Tom is a good player, _____?
+A. isn't he
+B. doesn't he
+C. is he
+D. wasn't he
+=A 前面是肯定句，附加問句用否定形式 isn't he。
+11. The book _____ I bought yesterday is very interesting.
+A. who
+B. what
+C. which
+D. where
+=C 先行詞是物 The book，作受詞的關係代名詞用 which。
+12. My brother has _____ his bike since last Sunday.
+A. have
+B. had
+C. has
+D. having
+=B has 後面接過去分詞，have 的過去分詞是 had。
+13. Please speak _____. I can't hear you.
+A. loud
+B. louder
+C. loudest
+D. the loudest
+=B 請說大聲一點，用比較級 louder。
+14. She looked _____ when she heard the bad news.
+A. sad
+B. sadly
+C. sadness
+D. sadder
+=A look 是連綴動詞，後面接形容詞 sad。
+15. A: Can you tell me _____? B: It's next to the bank.
+A. where the post office is
+B. where is the post office
+C. the post office is where
+D. is the post office where
+=A 間接問句使用肯定句語序：where + 主詞 + 動詞。
+16. English _____ in many countries around the world.
+A. speaks
+B. spoke
+C. is spoken
+D. is speaking
+=C 英語被許多國家使用，用被動語態 is spoken。
+17. They have lived in this house _____ 2015.
+A. for
+B. since
+C. in
+D. at
+=B 後面接過去的時間點 2015，用 since。
+18. The man _____ is wearing a blue shirt is our new teacher.
+A. which
+B. whose
+C. whom
+D. that
+=D 先行詞 The man 是人，作主詞的關係代名詞可用 that，which 用於物。
+19. A sign at the beach says: "Swimming is not allowed after 6 p.m." What does it mean?
+A. People can swim at any time.
+B. People must swim before 6 p.m.
+C. People cannot swim after 6 p.m.
+D. People should go to the beach at 6 p.m.
+=C not allowed 表示不被允許，所以六點之後不可游泳。
+## GROUP 20-22|傳單|Used Book Sale
+Used Book Sale
+Books are not only for reading. They can also help others!
+Date: Saturday, May 20, and Sunday, May 21
+Time: 10:00 a.m. - 6:00 p.m.
+Place: Hope Community Center
+Story books: $20 each
+Comic books: $15 each
+Dictionaries: $50 each
+All money from the sale will be given to children in the mountain areas.
+We also need volunteers. If you want to help, call Mr. Chang at 8765-4321.
+20. How long does the sale last?
+A. One day.
+B. Two days.
+C. Three days.
+D. One week.
+=B 五月 20 日和 21 日，共兩天。
+21. Amy wants to buy two story books and one comic book. How much will she pay?
+A. $35
+B. $40
+C. $55
+D. $70
+=C 兩本故事書 $40 加一本漫畫書 $15，共 $55。
+22. What will happen to the money from the sale?
+A. It will be used to buy new books for the center.
+B. It will be given to Mr. Chang.
+C. It will be given to children in the mountain areas.
+D. It will be used to pay volunteers.
+=C 傳單寫所有收入會捐給山區的孩子。
+## GROUP 23-24|短文|The Old Bridge
+The old bridge in our town was built in 1950. For many years, people crossed it to go to the market. It was made of wood, and it was very beautiful. However, last year a big storm damaged it. The town did not have enough money to build a new one, so many people were sad. Then a group of students started a project. They sold cookies and held music shows to raise money. After six months, they collected enough money, and the bridge has been fixed. Now it looks as good as new.
+23. Why were many people sad last year?
+A. The market was closed.
+B. The students left town.
+C. The bridge was too old to use.
+D. The storm damaged the bridge.
+=D 去年暴風雨損壞了橋，大家因此難過。
+24. How did the students get the money?
+A. They asked the town for help.
+B. They sold cookies and held music shows.
+C. They sold the old bridge.
+D. They worked at the market.
+=B 他們賣餅乾、辦音樂表演籌款。
+## GROUP 25-27|對話|After the Concert
+Jack: Have you been to a concert before, Eva?
+Eva: Yes, I have. I've been to three. But this is my first time to see Mayday.
+Jack: Me too! I've been a fan of the band since I was twelve.
+Eva: Really? I've only heard some of their songs. Which one is your favorite?
+Jack: "Stars in the Sky". It's the song that makes me feel brave.
+Eva: I love that song, too. The singer's voice is amazing.
+Jack: The tickets are very expensive, but I think it was worth it.
+Eva: I agree. Let's come again next year!
+25. How many concerts has Eva been to before this one?
+A. One.
+B. Two.
+C. Three.
+D. Four.
+=C Eva 說她以前去過三場演唱會。
+26. How long has Jack been a fan of the band?
+A. For three years.
+B. Since he was twelve.
+C. Since last year.
+D. For one month.
+=B Jack 說他從十二歲起就是樂團的粉絲。
+27. What do Jack and Eva think about the concert?
+A. It was too noisy.
+B. It was worth the money.
+C. It was boring.
+D. It was too short.
+=B Jack 認為票價雖貴但值得，Eva 表示同意。
+## GROUP 28-29|電子郵件|Bike Trip
+To: Dad
+From: Henry
+Subject: Greetings from Hualien
+Hi Dad,
+I have been in Hualien for two days. The weather has been great! Yesterday, my friends and I rode our bikes along the sea. It was one of the most exciting things I have ever done. We stopped at a small shop and had some cold fruit tea. It tasted so good. Today, I'm going to visit Taroko Gorge. I haven't seen it before, so I'm looking forward to it. I'll call you tonight.
+Henry
+28. How has the weather been in Hualien?
+A. Cold.
+B. Windy.
+C. Rainy.
+D. Great.
+=D 信中寫 The weather has been great。
+29. What will Henry do today?
+A. Ride a bike along the sea.
+B. Have fruit tea.
+C. Visit Taroko Gorge.
+D. Go home.
+=C 今天他要去太魯閣峽谷。
+## GROUP 30-32|資訊表|Library Rules
+Hillside Library
+Opening hours: 9:00 a.m. - 8:00 p.m. (Closed on Mondays)
+Each person can borrow up to five books for two weeks.
+Late return: $5 per day for each book.
+Please keep quiet. Food is not allowed, but water is OK.
+Computers can be used for one hour each time.
+Return books in the box at the front door when the library is closed.
+30. What can people do in the library?
+A. Eat lunch.
+B. Drink water.
+C. Talk loudly.
+D. Borrow ten books.
+=B 規定不能吃東西，但可以喝水。
+31. Ben returned one book three days late. How much does he need to pay?
+A. $5
+B. $10
+C. $15
+D. $20
+=C 每本每天罰 $5，遲三天，共 $15。
+32. What can people do when the library is closed?
+A. Use the computers.
+B. Return books in the box.
+C. Borrow more books.
+D. Read in the front yard.
+=B 閉館時可把書投進大門口的還書箱。
+## GROUP 33-34|公告|Science Fair
+Science Fair
+Our school's science fair will be held on Thursday, December 7, in the gym. Every student in Grade 8 has to take part. You can work alone or with a partner. Your project must be handed in to Mr. Hsu by Friday, November 24. The best three projects will win prizes. Last year's winner made a small robot that cleaned desks. What will you make this year?
+33. Who has to join the science fair?
+A. All the teachers.
+B. All the students in Grade 8.
+C. Parents of the students.
+D. Only students who want to.
+=B 公告說每位八年級學生都必須參加。
+34. What is true about the science fair?
+A. It will be held in a classroom.
+B. Students must work alone.
+C. Three projects will get prizes.
+D. The robot from last year was a prize.
+=C 最好的三件作品會獲得獎項。
+## GROUP 35-37|短文|Water for Everyone
+In many parts of the world, people do not have clean water. Some children must walk for hours to get water from a river, and the water is often dirty. Because of this, many of them get sick. Last year, a group of engineers built a small water system in a village in Africa. Now clean water is delivered to every house in the village by pipes. The children no longer have to walk far, so they can spend more time at school. The engineers hope that more villages can be helped in the future.
+35. Why do many children get sick?
+A. They drink dirty water.
+B. They don't go to school.
+C. They walk too much.
+D. They don't have houses.
+=A 他們從河裡取的水常常是髒的，因此生病。
+36. What did the engineers do?
+A. They taught the children to swim.
+B. They built a school.
+C. They built a water system.
+D. They cleaned the river.
+=C 工程師在村子裡建了一個小型供水系統。
+37. What is the result of the new system?
+A. Children can spend more time at school.
+B. The river is cleaner.
+C. The village is bigger.
+D. Children don't need to study.
+=A 孩子不必再走遠路，所以有更多時間上學。
+## GROUP 38-43|填空|A Dream Job
+Sandy has wanted to be a chef __38__ she was a little girl. She learned to cook from her grandmother, __39__ was a great cook. When Sandy was fifteen, she was asked __40__ her school to cook for a party. Everyone said the food was delicious. Since then, she has cooked for many people. Last month, she __41__ a chance to work in a famous restaurant. She was very excited, but she didn't know __42__ she should take the job. Her grandmother told her, "Follow your heart, and you will be __43__ in the end."
+38.
+A. for
+B. since
+C. when
+D. after
+=B since + 過去的時間點（she was a little girl），與現在完成式 has wanted 搭配。
+39.
+A. who
+B. which
+C. whose
+D. what
+=A 先行詞是 her grandmother，補充說明人，用 who。
+40.
+A. in
+B. on
+C. by
+D. at
+=C 被動語態中動作的執行者用 by。
+41.
+A. has
+B. had
+C. have
+D. having
+=B Last month 表示過去，用過去式 had。
+42.
+A. that
+B. what
+C. if
+D. who
+=C know if she should take the job 表示「是否」，用 if 引導間接問句。
+43.
+A. happy
+B. happily
+C. happiness
+D. happier
+=A be 動詞後接形容詞 happy 作補語。
